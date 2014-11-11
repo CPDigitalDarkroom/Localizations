@@ -78,9 +78,9 @@
 
 	<!-- TWEAK BUTTONS MAKE THESE ALL CAPS IF POSSIBLE -->
 	<key>CALL_OWNER</key>
-		<string>CALL OWNER</string>
+		<string>התקשר לבעלים</string>
 	<key>EMAIL_OWNER</key>
-		<string>EMAIL OWNER</string>
+		<string>מייל לבעליים</string>
 	<key>MESSAGE_OWNER</key>
 		<string>MESSAGE OWNER</string>
 </dict>
