@@ -50,6 +50,12 @@
 	<key>ZIP_CODE</key>
 		<string>Zip Code</string>
 
+	<!-- MAKERS PREFS PAGE-->
+	<key>CREDITS</key>
+		<string>Credits</string>
+	<key>CREDITS_FOOTER_TEXT</key>
+		<string>IfFound² Copyright 2014 CP Digital Darkroom</string>
+
 
 	<!-- TWEAK ALERTS -->
 	<key>ALERT_CALL_CANNOT_BE_COMPLETED</key>
@@ -78,9 +84,9 @@
 
 	<!-- TWEAK BUTTONS MAKE THESE ALL CAPS IF POSSIBLE -->
 	<key>CALL_OWNER</key>
-		<string>התקשר לבעלים</string>
+		<string>CALL OWNER</string>
 	<key>EMAIL_OWNER</key>
-		<string>מייל לבעליים</string>
+		<string>EMAIL OWNER</string>
 	<key>MESSAGE_OWNER</key>
 		<string>MESSAGE OWNER</string>
 </dict>
