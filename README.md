@@ -1,6 +1,6 @@
-IfFound² Localizations
+Tweak Localizations
 =====================
 
-IfFound² Localizations, to add a localization just do a pull request. 
+Tweak Localizations, to add a localization just do a pull request. 
 
 Thank you.
