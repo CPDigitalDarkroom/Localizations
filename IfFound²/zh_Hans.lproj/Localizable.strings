@@ -1,5 +1,40 @@
+//MAIN PREFS PAGE
+"ENABLED" = "开启";
+"CONFIGURATION" = "配置";
+"MAKERS" = "作者";
+"SUPPORT" = "支持";
+
+//CONFIGURATION PREFS PAGE
 "ACTIVATION_METHODS" = "激活方式";
 "ACTIVATION_METHODS_FOOTER_TEXT" = "您可以选择一种或多种方式.更智能, 更安全.";
+"ADVANCED_SETTINGS" = "Advanced Settings";
+"ADVANCED_SETTINGS_FOOTER_TEXT" = "Only use these if you want manual control over the button positioning, I will not help you center it to your custom location. You are on your own here.";
+"BUTTON_ACTIONS" = "按钮动作";
+"BUTTON_ACTIONS_FOOTER_TEXT" = "IfFound按钮是一个Activator动作, 您可以选择一个合适的触发条件. 且确保IfFound被勾选";
+"BUTTON_TRIGGER" = "按钮触发";
+"CITY" = "城市";
+"CONTACT_EMAIL_FOOTER_TEXT" = "请添加iffound@cpdigitaldarkroom.com 到您的邮箱白名单或者VIP列表以防被移至垃圾箱.";
+"CONTACT_PICKER_FOOTER_TEXT" = "如果出于某种原因无法选择联系人, 请在下方输入";
+"COUNTRY" = "国家";
+"CREDITS" = "感谢";
+"CREDITS_FOOTER_TEXT" = "IfFound² Copyright 2014 CP Digital Darkroom";
+"DEVICE_OWNER_NAME" = "机主姓名";
+"DISABLE_IFFOUND_BUTTON" = "Disable IfFound Button";
+"DISABLE_IFFOUND_BUTTON_FOOTER_TEXT" = "Useful if you don't want the button on your LockScreen and have set an Activator action to trigger the window.";
+"OWNER_ADDRESS" = "Owner Address";
+"IF_FOUND_WINDOW_ACTIVATION" = "If Found窗口激活";
+"IF_FOUND_WINDOW_DEACTIVATION" = "If Found窗口未激活";
+"MESSAGE_OWNER" = "给失主发信息";
+"OWNER_ADDRESS" = "机主地址";
+"PLEASE_RETURN_TO" = "请归还给";
+"SHOULD_SHOW_CLOSE_BUTTON" = "显示关闭按钮";
+"STATE" = "州";
+"THIS_DEVICE_BELONGS_TO" = "这个设备属于";
+"USE_MANUAL_POSITIONING" = "Use Manual Positioning";
+"ZIP_CODE" = "邮编";
+
+
+//TWEAK ALERTS
 "ALERT_CALL_CANNOT_BE_COMPLETED" = "电话设置错误";
 "ALERT_CANCEL" = "取消";
 "ALERT_CHOOSE_PHOTO" = "选择一张照片";
@@ -11,28 +46,8 @@
 "ALERT_OK" = "OK";
 "ALERT_TAKE_OR_CHOOSE" = "你要拍张照片或者选一张照片?";
 "ALERT_TAKE_PHOTO" = "拍照";
-"BUTTON_ACTIONS" = "按钮动作";
-"BUTTON_ACTIONS_FOOTER_TEXT" = "IfFound按钮是一个Activator动作, 您可以选择一个合适的触发条件. 且确保IfFound被勾选";
-"BUTTON_TRIGGER" = "按钮触发";
+
+//TWEAK BUTTONS (MAKE THESE ALL CAPS)
 "CALL_OWNER" = "打给失主";
-"CITY" = "城市";
-"CONFIGURATION" = "配置";
-"CONTACT_EMAIL_FOOTER_TEXT" = "请添加iffound@cpdigitaldarkroom.com 到您的邮箱白名单或者VIP列表以防被移至垃圾箱.";
-"CONTACT_PICKER_FOOTER_TEXT" = "如果出于某种原因无法选择联系人, 请在下方输入";
-"COUNTRY" = "国家";
-"CREDITS" = "感谢";
-"CREDITS_FOOTER_TEXT" = "IfFound² Copyright 2014 CP Digital Darkroom";
-"DEVICE_OWNER_NAME" = "机主姓名";
 "EMAIL_OWNER" = "给失主发邮件";
-"ENABLED" = "开启";
-"IF_FOUND_WINDOW_ACTIVATION" = "If Found窗口激活";
-"IF_FOUND_WINDOW_DEACTIVATION" = "If Found窗口未激活";
-"MAKERS" = "作者";
 "MESSAGE_OWNER" = "给失主发信息";
-"OWNER_ADDRESS" = "机主地址";
-"PLEASE_RETURN_TO" = "请归还给";
-"SHOULD_SHOW_CLOSE_BUTTON" = "显示关闭按钮";
-"STATE" = "州";
-"SUPPORT" = "支持";
-"THIS_DEVICE_BELONGS_TO" = "这个设备属于";
-"ZIP_CODE" = "邮编";
