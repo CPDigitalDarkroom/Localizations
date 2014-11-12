@@ -23,6 +23,8 @@
 "DISABLE_IFFOUND_BUTTON" = "Desactivar botón IfFound";
 "DISABLE_IFFOUND_BUTTON_FOOTER_TEXT" = "Útil si no deseas el botón en su LockScreen y has configurado una acción de Activador para activar la ventana.";
 "OWNER_ADDRESS" = "Dirección del Propietario";
+"IFFOUND_STEALTH_EMAIL" = "Correo Electrónico Sin Alerta";
+"IFFOUND_STEALTH_EMAIL_FOOTER_TEXT" = "Activación manda un correo electrónico con la ubicación del dispositivo sin desencadenar una alerta de error o de éxito.";
 "IF_FOUND_WINDOW_ACTIVATION" = "Activación de Ventana IfFound";
 "IF_FOUND_WINDOW_DEACTIVATION" = "Desactivación de Ventana IfFound";
 "PLEASE_RETURN_TO" = "Porfavor regrese a";

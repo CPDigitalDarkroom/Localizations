@@ -23,6 +23,8 @@
 "DISABLE_IFFOUND_BUTTON" = "Disable IfFound Button";
 "DISABLE_IFFOUND_BUTTON_FOOTER_TEXT" = "Useful if you don't want the button on your LockScreen and have set an Activator action to trigger the window.";
 "OWNER_ADDRESS" = "Owner Address";
+"IFFOUND_STEALTH_EMAIL" = "IfFound Stealth Email";
+"IFFOUND_STEALTH_EMAIL_FOOTER_TEXT" = "Triggering the stealth email will send you an email with your devices location without triggering an error or success alert.";
 "IF_FOUND_WINDOW_ACTIVATION" = "If Found Window Activation";
 "IF_FOUND_WINDOW_DEACTIVATION" = "If Found Window Deactivation";
 "PLEASE_RETURN_TO" = "Please Return To";
