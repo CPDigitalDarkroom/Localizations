@@ -29,8 +29,8 @@
 "DISABLE_IFFOUND_BUTTON_FOOTER_TEXT" = "如果你不想在锁屏显示按钮且设置一个Activator激活方式.";
 "EMAIL_OWNER" = "给失主发邮件";
 "ENABLED" = "开启";
-"IFFOUND_STEALTH_EMAIL" = "IfFound Stealth Email";
-"IFFOUND_STEALTH_EMAIL_FOOTER_TEXT" = "Triggering the stealth email will send you an email with your devices location without triggering an error or success alert.";
+"IFFOUND_STEALTH_EMAIL" = "IfFound 秘密邮件";
+"IFFOUND_STEALTH_EMAIL_FOOTER_TEXT" = "一旦触发秘密邮件, IfFound将会不出现任何提示向您发送一封带有您位置的邮件";
 "IF_FOUND_WINDOW_ACTIVATION" = "If Found窗口激活";
 "IF_FOUND_WINDOW_DEACTIVATION" = "If Found窗口未激活";
 "MAKERS" = "作者";
