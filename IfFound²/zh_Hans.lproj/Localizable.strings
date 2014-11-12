@@ -1,93 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<!-- MAIN PREFS PAGE -->
-	<key>ENABLED</key>
-		<string>Enabled</string>
-	<key>CONFIGURATION</key>
-		<string>Configuration</string>
-	<key>MAKERS</key>
-		<string>Makers</string>
-	<key>SUPPORT</key>
-		<string>Support</string>
-
-	<!-- CONFIGURATION PREFS PAGE -->
-	<key>ACTIVATION_METHODS</key>
-		<string>Activation Methods</string>
-	<key>ACTIVATION_METHODS_FOOTER_TEXT</key>
-		<string>You can choose more than one activation method and deactivation method. Be creative, be smart, be safe.</string>
-	<key>BUTTON_ACTIONS</key>
-		<string>Button Actions</string>
-	<key>BUTTON_ACTIONS_FOOTER_TEXT</key>
-		<string>The IfFound button is an Activator event, you can set it up to trigger any action that is available within Activator. Make sure to set it to trigger the IfFound window.</string>
-	<key>BUTTON_TRIGGER</key>
-		<string>Button Trigger</string>
-	<key>CITY</key>
-		<string>City</string>
-	<key>CONTACT_EMAIL_FOOTER_TEXT</key>
-		<string>Please add iffound@cpdigitaldarkroom.com to your email whitelist or your VIP inbox to ensure the email doesn't get sent to spam</string>
-	<key>CONTACT_PICKER_FOOTER_TEXT</key>
-		<string>If for any reason the contact picker doesn't allow you to set a contact, enter it manually in the text box provided above.</string>
-	<key>COUNTRY</key>
-		<string>Country</string>
-	<key>DEVICE_OWNER_NAME</key>
-		<string>Device Owner Name</string>
-	<key>OWNER_ADDRESS</key>
-		<string>Owner Address</string>
-	<key>IF_FOUND_WINDOW_ACTIVATION</key>
-		<string>If Found Window Activation</string>
-	<key>IF_FOUND_WINDOW_DEACTIVATION</key>
-		<string>If Found Window Deactivation</string>
-	<key>PLEASE_RETURN_TO</key>
-		<string>Please Return To</string>
-	<key>SHOULD_SHOW_CLOSE_BUTTON</key>
-		<string>Show Close Button</string>
-	<key>STATE</key>
-		<string>State</string>
-	<key>THIS_DEVICE_BELONGS_TO</key>
-		<string>This Device Belongs To</string>
-	<key>ZIP_CODE</key>
-		<string>Zip Code</string>
-
-	<!-- MAKERS PREFS PAGE-->
-	<key>CREDITS</key>
-		<string>Credits</string>
-	<key>CREDITS_FOOTER_TEXT</key>
-		<string>IfFound² Copyright 2014 CP Digital Darkroom</string>
-
-
-	<!-- TWEAK ALERTS -->
-	<key>ALERT_CALL_CANNOT_BE_COMPLETED</key>
-		<string>This call can not be completed as dialed. It has been setup incorrectly in the settings.</string>
-	<key>ALERT_CANCEL</key>
-		<string>Cancel</string>
-	<key>ALERT_CHOOSE_PHOTO</key>
-		<string>Choose an Existing Photo</string>
-	<key>ALERT_DELETE_PHOTO</key>
-		<string>Delete Existing Photo</string>
-	<key>ALERT_DISMISS</key>
-		<string>Dismiss</string>
-	<key>ALERT_EMAIL_ERROR</key>
-		<string>Email could not be sent at this time, please try again in a couple minutes.</string>
-	<key>ALERT_EMAIL_SENT</key>
-		<string>Email sent successfully to device owner.</string>
-	<key>ALERT_NO_IMAGE_CURRENTLY_SAVED</key>
-		<string>You currently don't have an image saved for your owner image.</string>
-	<key>ALERT_OK</key>
-		<string>OK</string>
-	<key>ALERT_TAKE_OR_CHOOSE</key>
-		<string>Do you want to take a photo or choose an existing photo?</string>
-	<key>ALERT_TAKE_PHOTO</key>
-		<string>Take a Photo</string>
-
-
-	<!-- TWEAK BUTTONS MAKE THESE ALL CAPS IF POSSIBLE -->
-	<key>CALL_OWNER</key>
-		<string>CALL OWNER</string>
-	<key>EMAIL_OWNER</key>
-		<string>EMAIL OWNER</string>
-	<key>MESSAGE_OWNER</key>
-		<string>MESSAGE OWNER</string>
-</dict>
-</plist>
+"ACTIVATION_METHODS" = "激活方式";
+"ACTIVATION_METHODS_FOOTER_TEXT" = "您可以选择一种或多种方式.更智能, 更安全.";
+"ALERT_CALL_CANNOT_BE_COMPLETED" = "电话设置错误";
+"ALERT_CANCEL" = "取消";
+"ALERT_CHOOSE_PHOTO" = "选择一张照片";
+"ALERT_DELETE_PHOTO" = "删除已选照片";
+"ALERT_DISMISS" = "关闭";
+"ALERT_EMAIL_ERROR" = "邮件暂时无法发送.请稍后重试";
+"ALERT_EMAIL_SENT" = "邮件已成功发给机主.";
+"ALERT_NO_IMAGE_CURRENTLY_SAVED" = "你目前还没有设置您的照片.";
+"ALERT_OK" = "OK";
+"ALERT_TAKE_OR_CHOOSE" = "你要拍张照片或者选一张照片?";
+"ALERT_TAKE_PHOTO" = "拍照";
+"BUTTON_ACTIONS" = "按钮动作";
+"BUTTON_ACTIONS_FOOTER_TEXT" = "IfFound按钮是一个Activator动作, 您可以选择一个合适的触发条件. 且确保IfFound被勾选";
+"BUTTON_TRIGGER" = "按钮触发";
+"CALL_OWNER" = "打给失主";
+"CITY" = "城市";
+"CONFIGURATION" = "配置";
+"CONTACT_EMAIL_FOOTER_TEXT" = "请添加iffound@cpdigitaldarkroom.com 到您的邮箱白名单或者VIP列表以防被移至垃圾箱.";
+"CONTACT_PICKER_FOOTER_TEXT" = "如果出于某种原因无法选择联系人, 请在下方输入";
+"COUNTRY" = "国家";
+"CREDITS" = "感谢";
+"CREDITS_FOOTER_TEXT" = "IfFound² Copyright 2014 CP Digital Darkroom";
+"DEVICE_OWNER_NAME" = "机主姓名";
+"EMAIL_OWNER" = "给失主发邮件";
+"ENABLED" = "开启";
+"IF_FOUND_WINDOW_ACTIVATION" = "If Found窗口激活";
+"IF_FOUND_WINDOW_DEACTIVATION" = "If Found窗口未激活";
+"MAKERS" = "作者";
+"MESSAGE_OWNER" = "给失主发信息";
+"OWNER_ADDRESS" = "机主地址";
+"PLEASE_RETURN_TO" = "请归还给";
+"SHOULD_SHOW_CLOSE_BUTTON" = "显示关闭按钮";
+"STATE" = "州";
+"SUPPORT" = "支持";
+"THIS_DEVICE_BELONGS_TO" = "这个设备属于";
+"ZIP_CODE" = "邮编";
