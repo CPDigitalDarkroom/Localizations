@@ -9,7 +9,7 @@
 "ACTIVATION_METHODS_FOOTER_TEXT" = "Sie können mehr als eine Methode zum Aktivieren und Deaktivieren wählen. Sei kreativ, sei smart und sei sicher.";
 "ADVANCED_SETTINGS" = "Erweiterte Einstellungen";
 "ADVANCED_SETTINGS_FOOTER_TEXT" = "Benutzen sie diese nur wenn sie manuelle Kontrolle über der Position der Taste wollen, ich werd euch nicht helfen eure eigene position zu setzen. Sie sind hier auf sich alleingestellt.";
-"BUTTON_ACTIONS" = Tasten-Aktionen";
+"BUTTON_ACTIONS" = "Tasten-Aktionen";
 "BUTTON_ACTIONS_FOOTER_TEXT" = "Der IfFound Button ist ein Activator Event, sie können damit jede Aktion die in Activator verfügbar ist ausführen.";
 "BUTTON_TRIGGER" = "Button-Trigger";
 "CITY" = "City";
