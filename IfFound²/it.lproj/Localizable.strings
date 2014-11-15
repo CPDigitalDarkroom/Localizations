@@ -11,7 +11,7 @@
 "ADVANCED_SETTINGS_FOOTER_TEXT" = "Utlizza queste opzioni solo se vuoi controllare manualmente la posizione del pulsante, io non ti aiuterò a a centrare il pulsante nella tua posizione personalizzate. Sei da solo qui.";
 "BUTTON_ACTIONS" = "Azioni Pulsante";
 "BUTTON_ACTIONS_FOOTER_TEXT" = "Il pulsante IfFound è un evento di Activator, puoi impostare qualsiasi azione che è disponibile con Activator. Ricordati di attivare la finestra di IfFound.";
-"BUTTON_TRIGGER" = "Pulsante Premuto";
+"BUTTON_TRIGGER" = "Attivazione Pulsante";
 "CITY" = "Città";
 "CONTACT_EMAIL_FOOTER_TEXT" = "Per favore aggiungi iffound@cpdigitaldarkroom alla tua whitelist o alla casella VIP della tua email per assicurarti che le email non finiscano tra gli spam";
 "CONTACT_PICKER_FOOTER_TEXT" = "Se per qualsiasi ragione il selettore dei contatti non ti permette di scegliere un contatto, inseriscilo manualmente nella casella di testo qui sopra";
