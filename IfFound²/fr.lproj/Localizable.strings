@@ -12,6 +12,7 @@
 "BUTTON_ACTIONS" = "Actions du bouton";
 "BUTTON_ACTIONS_FOOTER_TEXT" = "Le bouton de IfFound est un evenement d'Activator, vous pouvez le regler à provoquer n'importe quel action qui est disponible dans Activator. Soyez certain à regler-le à provoquer le fenêtre de IfFound.";
 "BUTTON_TRIGGER" = "Détonateur du bouton";
+"CALL_OWNER_BUTTON_SETUP" = "Call Button Setup";
 "CITY" = "Ville";
 "CONTACT_EMAIL_FOOTER_TEXT" = "S'il vous plaît ajouter iffound@cpdigitaldarkroom.com à votre list blanche pour email ou votre boîte de réception VIP pour assurer que l'email n'est pas envoyer à spam.";
 "CONTACT_PICKER_FOOTER_TEXT" = "Si c'est le cas que l'interface pour choisir un contact ne vous permettre pas à choisir un contact, entrez-le par main dans le boîte de texte au-dessus.";
@@ -22,6 +23,7 @@
 "DEVICE_OWNER_NAME_FOOTER_TEXT" = "Votre Nom";
 "DISABLE_IFFOUND_BUTTON" = "Désactiver le bouton de IfFound";
 "DISABLE_IFFOUND_BUTTON_FOOTER_TEXT" = "Useful if you don't want the button on your LockScreen and have set an Activator action to trigger the window.";
+"EMAIL_BUTTON_SETUP" = "Email Button Setup";
 "OWNER_ADDRESS" = "Addresse du propriétaire";
 "IFFOUND_STEALTH_EMAIL" = "IfFound email discret";
 "IFFOUND_STEALTH_EMAIL_FOOTER_TEXT" = "En declenchant l'email discret, il va vous envoyed un email avec l'endroit de votre appareil sans le déclenchement d'un erreur ou un alerte de la réussite.";

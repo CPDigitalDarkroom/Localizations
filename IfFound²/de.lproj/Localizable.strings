@@ -12,6 +12,7 @@
 "BUTTON_ACTIONS" = "Tasten-Aktionen";
 "BUTTON_ACTIONS_FOOTER_TEXT" = "Der IfFound Button ist ein Activator Event, sie können damit jede Aktion die in Activator verfügbar ist ausführen.";
 "BUTTON_TRIGGER" = "Button-Trigger";
+"CALL_OWNER_BUTTON_SETUP" = "Call Button Setup";
 "CITY" = "City";
 "CONTACT_EMAIL_FOOTER_TEXT" = "Bitte fügen sie die E-mail iffound@cpdigitaldarkroom.com zu ihren VIPs hinzu oder whitelisten sie diese zum sicherstellen dass die E-mail nicht als Spam erkannt wird.";
 "CONTACT_PICKER_FOOTER_TEXT" = "Falls aus welchen Grund auch immer der Kontakt nicht ausgewählt werden kann, dann geben sie einfach den Namen in der Text Box drüber ein.";
@@ -22,6 +23,7 @@
 "DEVICE_OWNER_NAME_FOOTER_TEXT" = "Ihr Name";
 "DISABLE_IFFOUND_BUTTON" = "IfFound Button deaktivieren";
 "DISABLE_IFFOUND_BUTTON_FOOTER_TEXT" = "Nützlich wenn sie den Button im Lockscreen nicht wollen und schon eine Activator Aktion aktiviert ist.";
+"EMAIL_BUTTON_SETUP" = "Email Button Setup";
 "OWNER_ADDRESS" = "Adresse des Inhabers";
 "IFFOUND_STEALTH_EMAIL" = "IfFound Diebstahl E-mail";
 "IFFOUND_STEALTH_EMAIL_FOOTER_TEXT" = "Wenn sie die Diebstahl E-mail aktivieren, wird sofort eine E-mail gesendet mit dem Standort des Gerätes ohne einen Fehler/Alarm auszulösen.";

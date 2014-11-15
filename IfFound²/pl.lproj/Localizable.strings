@@ -15,6 +15,7 @@
 "CITY" = "City";
 "CONTACT_EMAIL_FOOTER_TEXT" = "Please add iffound@cpdigitaldarkroom.com to your email whitelist or your VIP inbox to ensure the email doesn't get sent to spam";
 "CONTACT_PICKER_FOOTER_TEXT" = "If for any reason the contact picker doesn't allow you to set a contact, enter it manually in the text box provided above.";
+"CALL_OWNER_BUTTON_SETUP" = "Call Button Setup";
 "COUNTRY" = "Country";
 "CREDITS" = "Credits";
 "CREDITS_FOOTER_TEXT" = "IfFound² Copyright 2014 CP Digital Darkroom";
@@ -22,6 +23,7 @@
 "DEVICE_OWNER_NAME_FOOTER_TEXT" = "Your Name";
 "DISABLE_IFFOUND_BUTTON" = "Disable IfFound Button";
 "DISABLE_IFFOUND_BUTTON_FOOTER_TEXT" = "Useful if you don't want the button on your LockScreen and have set an Activator action to trigger the window.";
+"EMAIL_BUTTON_SETUP" = "Email Button Setup";
 "OWNER_ADDRESS" = "Owner Address";
 "IFFOUND_STEALTH_EMAIL" = "IfFound Stealth Email";
 "IFFOUND_STEALTH_EMAIL_FOOTER_TEXT" = "Triggering the stealth email will send you an email with your devices location without triggering an error or success alert.";

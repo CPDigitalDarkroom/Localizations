@@ -12,6 +12,7 @@
 "BUTTON_ACTIONS" = "Buton İşlevleri";
 "BUTTON_ACTIONS_FOOTER_TEXT" = "IfFound butonu, bir Activator işlemidir. Bu butonu, Activator'da bulunan işlemlerin herhangi birini tetiklemek için kullanabilirsiniz. IfFound penceresini açacak şekilde ayar yaptığınızdan emin olun.";
 "BUTTON_TRIGGER" = "Buton Tetikleyicisi";
+"CALL_OWNER_BUTTON_SETUP" = "Call Button Setup";
 "CITY" = "Şehir";
 "CONTACT_EMAIL_FOOTER_TEXT" = "Email'lerin, gelen kutunuza ulaşabilmesi için, lütfen iffound@cpdigitaldarkroom.com adresini, güvenli göndericilere kaydedin.";
 "CONTACT_PICKER_FOOTER_TEXT" = "Eğer herhangi bir nedenle kişilerden birini seçemiyorsanız, lütfen yukarıdaki kutuya kendiniz ekleyin.";
@@ -22,6 +23,7 @@
 "DEVICE_OWNER_NAME_FOOTER_TEXT" = "İsminiz";
 "DISABLE_IFFOUND_BUTTON" = "IfFound butonunu iptal et";
 "DISABLE_IFFOUND_BUTTON_FOOTER_TEXT" = "Butonu kilit ekranında istemiyorsanız, pencereyi Activator işlemiyle açmayı ayarladıysanız bunu kullanabilirsiniz.";
+"EMAIL_BUTTON_SETUP" = "Email Button Setup";
 "OWNER_ADDRESS" = "Cihaz Sahibinin Adresi";
 "IFFOUND_STEALTH_EMAIL" = "IfFound Gizli E-mail";
 "IFFOUND_STEALTH_EMAIL_FOOTER_TEXT" = "Gizli E-mail'i etkinleştirirseniz cihaz, herhangi bir hata mesajı veya bildirim göstermeden, gizlice size bulunduğu yer bilgisini gönderecektir.";

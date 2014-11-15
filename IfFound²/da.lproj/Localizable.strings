@@ -12,6 +12,7 @@
 "BUTTON_ACTIONS" = "Knaphandlinger";
 "BUTTON_ACTIONS_FOOTER_TEXT" = "Knappen IfFound er en Aktivator begivenhed, du kan sætte den til at trigger enhver aktion der er til rådighed indenfor Activator. Sørg for at sætte den til at trigger IfFound window.";
 "BUTTON_TRIGGER" = "Knap Trigger";
+"CALL_OWNER_BUTTON_SETUP" = "Call Button Setup";
 "CITY" = "By";
 "CONTACT_EMAIL_FOOTER_TEXT" = "Venligst tilføj iffound@cpdigitaldarkroom.com til din email whitelist eller til din VIP indbakke, for at sikre dig, at den ikke ryger under Uønsket mail";
 "CONTACT_PICKER_FOOTER_TEXT" = "Hvis af en eller anden grund, kontaktvælgeren ikke tillader dig at sætte en kontakt, skal du indtaste det manualt i tekstfeltet ovenfor.";
@@ -22,6 +23,7 @@
 "DEVICE_OWNER_NAME_FOOTER_TEXT" = "Dit Navn";
 "DISABLE_IFFOUND_BUTTON" = "Deaktiver IfFound Knappen";
 "DISABLE_IFFOUND_BUTTON_FOOTER_TEXT" = "Nyttigt, hvis du ikke ønsker, at knappen på dit LockScreen og allerede har indstillet en Aktivator til at udløse vinduet.";
+"EMAIL_BUTTON_SETUP" = "Email Button Setup";
 "OWNER_ADDRESS" = "Ejer Addresse";
 "IFFOUND_STEALTH_EMAIL" = "IfFound Stealth Email";
 "IFFOUND_STEALTH_EMAIL_FOOTER_TEXT" = "Udløsningen af Stealth email vil sende dig en e-mail med dine enheders placering uden at skabe fejl eller success alarm.";

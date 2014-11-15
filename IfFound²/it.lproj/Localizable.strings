@@ -15,6 +15,7 @@
 "CITY" = "Città";
 "CONTACT_EMAIL_FOOTER_TEXT" = "Per favore aggiungi iffound@cpdigitaldarkroom alla tua whitelist o alla casella VIP della tua email per assicurarti che le email non finiscano tra gli spam";
 "CONTACT_PICKER_FOOTER_TEXT" = "Se per qualsiasi ragione il selettore dei contatti non ti permette di scegliere un contatto, inseriscilo manualmente nella casella di testo qui sopra";
+"CALL_OWNER_BUTTON_SETUP" = "Call Button Setup";
 "COUNTRY" = "Stato";
 "CREDITS" = "Riconoscimenti";
 "CREDITS_FOOTER_TEXT" = "IfFound² Copyright 2014 CP Digital Darkroom";
@@ -22,6 +23,7 @@
 "DEVICE_OWNER_NAME_FOOTER_TEXT" = "Il Tuo Nome";
 "DISABLE_IFFOUND_BUTTON" = "Disabilita il Pulsante IfFound";
 "DISABLE_IFFOUND_BUTTON_FOOTER_TEXT" = "Utile se non vuoi il pulsante nella Schermata di Blocco e se hai impostato un azione di Activator per visualizzare la finestra.";
+"EMAIL_BUTTON_SETUP" = "Email Button Setup";
 "OWNER_ADDRESS" = "Indirizzo Proprietario";
 "IFFOUND_STEALTH_EMAIL" = "Email Nascosta di IfFound";
 "IFFOUND_STEALTH_EMAIL_FOOTER_TEXT" = "Impostando l'email nascosta ti verrà inviata un email con la localizzazione del tuo dispositivo senza visualizzare un messaggio di errore o di conferma.";

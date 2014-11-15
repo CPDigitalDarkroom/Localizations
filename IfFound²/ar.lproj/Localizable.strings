@@ -12,6 +12,7 @@
 "BUTTON_ACTIONS" = "زر الحركات";
 "BUTTON_ACTIONS_FOOTER_TEXT" = "يمكنك استعمال زر IfFound مع أي حركة متوفرة في Activator";
 "BUTTON_TRIGGER" = "زر التفعيل/الغاء التفعيل";
+"CALL_OWNER_BUTTON_SETUP" = "Call Button Setup";
 "CITY" = "المدينة";
 "CONTACT_EMAIL_FOOTER_TEXT" = "الرجاء إضافة iffound@cpdigitaldarkroom.com إلى قائمة البريد الإلكتروني المفضلة لضمان وصول البريد الإلكتروني الى حافظة inbox بدلا عن حافظة spam";
 "CONTACT_PICKER_FOOTER_TEXT" = "If for any reason the contact picker doesn't allow you to set a contact, enter it manually in the text box provided above.";
@@ -22,6 +23,7 @@
 "DEVICE_OWNER_NAME_FOOTER_TEXT" = "إسمك";
 "DISABLE_IFFOUND_BUTTON" = "تعطيل زر IfFound";
 "DISABLE_IFFOUND_BUTTON_FOOTER_TEXT" = "مفيدة إذا لم تكن تريد الزر في قفل الشاشة وإنك قد قمت بتعيين حركة Activator لتفعيل وإلغاء تفعيل النافذة";
+"EMAIL_BUTTON_SETUP" = "Email Button Setup";
 "OWNER_ADDRESS" = "عنوان المالك";
 "IFFOUND_STEALTH_EMAIL" = "الايميل السري لـ IfFound";
 "IFFOUND_STEALTH_EMAIL_FOOTER_TEXT" = "تفعيل البريد الإلكتروني السري سيقوم بإرسال بريد إلكتروني بمكان أجهزتك من غير نافذة تنبه أذا أرسل البريد الاكتروني ام لا";

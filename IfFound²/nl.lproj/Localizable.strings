@@ -12,6 +12,7 @@
 "BUTTON_ACTIONS" = "Knop acties";
 "BUTTON_ACTIONS_FOOTER_TEXT" = "De IfFound knop is een Activator trigger, je kunt het instellen om alles te activeren dat beschikbaar is in Activator. Stel het in zodat het IfFound-scherm geactiveerd wordt.";
 "BUTTON_TRIGGER" = "Knop trigger";
+"CALL_OWNER_BUTTON_SETUP" = "Call Button Setup";
 "CITY" = "Stad";
 "CONTACT_EMAIL_FOOTER_TEXT" = "Voeg iffound@cpdigitaldarkroom.com toe aan de whitelist van je e-mail of je VIP inbox zodat het mailtje niet als spam wordt gemarkeerd";
 "CONTACT_PICKER_FOOTER_TEXT" = "Als de contactkiezer je niet een contact laat instellen, voer het dan handmatig in het tekstvak hierboven in.";
@@ -22,6 +23,7 @@
 "DEVICE_OWNER_NAME_FOOTER_TEXT" = "Je naam";
 "DISABLE_IFFOUND_BUTTON" = "Schakel IfFound knop uit";
 "DISABLE_IFFOUND_BUTTON_FOOTER_TEXT" = "Handig als je de knop niet op je Vergrendelscherm wilt en een Activator-actie in hebt gesteld voor het scherm.";
+"EMAIL_BUTTON_SETUP" = "Email Button Setup";
 "OWNER_ADDRESS" = "Adres eigenaar";
 "IFFOUND_STEALTH_EMAIL" = "IfFound stealth e-mail";
 "IFFOUND_STEALTH_EMAIL_FOOTER_TEXT" = "Het activeren van de stealth e-mail stuurt je een e-mail met de locatie van je apparaat zonder hierna een fout- of succesmelding te tonen.";

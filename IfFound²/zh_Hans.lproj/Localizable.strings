@@ -16,6 +16,7 @@
 "BUTTON_ACTIONS" = "按钮动作";
 "BUTTON_ACTIONS_FOOTER_TEXT" = "IfFound按钮是一个Activator动作, 您可以选择一个合适的触发条件. 且确保IfFound被勾选";
 "BUTTON_TRIGGER" = "按钮触发";
+"CALL_OWNER_BUTTON_SETUP" = "Call Button Setup";
 "CALL_OWNER" = "打给失主";
 "CITY" = "城市";
 "CONFIGURATION" = "配置";
@@ -27,6 +28,7 @@
 "DEVICE_OWNER_NAME" = "机主姓名";
 "DISABLE_IFFOUND_BUTTON" = "禁用 IfFound 按钮";
 "DISABLE_IFFOUND_BUTTON_FOOTER_TEXT" = "如果你不想在锁屏显示按钮且设置一个Activator激活方式.";
+"EMAIL_BUTTON_SETUP" = "Email Button Setup";
 "EMAIL_OWNER" = "给失主发邮件";
 "ENABLED" = "开启";
 "IFFOUND_STEALTH_EMAIL" = "IfFound 秘密邮件";
