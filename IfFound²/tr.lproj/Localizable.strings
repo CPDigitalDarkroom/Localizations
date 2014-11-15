@@ -1,57 +1,57 @@
 //MAIN PREFS PAGE
 "ENABLED" = "Etkin";
 "CONFIGURATION" = "Ayarlar";
-"MAKERS" = "Makers";
+"MAKERS" = "Yapımcı";
 "SUPPORT" = "Destek";
 
 //CONFIGURATION PREFS PAGE
-"ACTIVATION_METHODS" = "Aktivasyon Şekilleri";
-"ACTIVATION_METHODS_FOOTER_TEXT" = "Birden fazla aktivasyon methodu seçebilirsiniz. Yaratıcı ol, Zeki ol, Güvende ol.";
-"ADVANCED_SETTINGS" = "Genel Ayarlar";
-"ADVANCED_SETTINGS_FOOTER_TEXT" = "Lütfen sadece butonların yerini değiştirmek isterseniz kullanın, Bu bölümde size yardımcı olamam. Kendi başınızasınız.";
-"BUTTON_ACTIONS" = "Buton Aksiyonları";
-"BUTTON_ACTIONS_FOOTER_TEXT" = "IfFound butonu Activator etkinleştiricisi, Activator methodlarından herhangi birini seçebilirsiniz. Tetikleyiciyi IfFound penceresinden seçtiğinizden emin olun.";
+"ACTIVATION_METHODS" = "Aktivasyon Metodları";
+"ACTIVATION_METHODS_FOOTER_TEXT" = "Birden fazla aktivasyon ve deaktivasyon metodu seçebilirsiniz. 'Yaratıcı ol, akıllı ol, güvende ol.'";
+"ADVANCED_SETTINGS" = "İleri Düzey Ayarlar";
+"ADVANCED_SETTINGS_FOOTER_TEXT" = "Bu ayarları, sadece buton yerini kendiniz belirlemek istiyorsanız kullanın. Botunu merkeze koymanıza yardımcı olamıyorum, kendiniz yapmalısınız.";
+"BUTTON_ACTIONS" = "Buton İşlevleri";
+"BUTTON_ACTIONS_FOOTER_TEXT" = "IfFound butonu, bir Activator işlemidir. Bu butonu, Activator'da bulunan işlemlerin herhangi birini tetiklemek için kullanabilirsiniz. IfFound penceresini açacak şekilde ayar yaptığınızdan emin olun.";
 "BUTTON_TRIGGER" = "Buton Tetikleyicisi";
 "CITY" = "Şehir";
-"CONTACT_EMAIL_FOOTER_TEXT" = "Lütfen iffound@cpdigitaldarkroom.com mail adresini kaydedin yoksa mailler Spam kutusuna düşebilir";
-"CONTACT_PICKER_FOOTER_TEXT" = "Eğer herhangi bir nedenle kişilerden seçemiyorsanız lütfen kutuya manuel olarak ekleyin.";
+"CONTACT_EMAIL_FOOTER_TEXT" = "Email'lerin, gelen kutunuza ulaşabilmesi için, lütfen iffound@cpdigitaldarkroom.com adresini, güvenli göndericilere kaydedin.";
+"CONTACT_PICKER_FOOTER_TEXT" = "Eğer herhangi bir nedenle kişilerden birini seçemiyorsanız, lütfen yukarıdaki kutuya kendiniz ekleyin.";
 "COUNTRY" = "Ülke";
-"CREDITS" = "Credits";
+"CREDITS" = "Telif Hakları";
 "CREDITS_FOOTER_TEXT" = "IfFound² Copyright 2014 CP Digital Darkroom";
 "DEVICE_OWNER_NAME" = "Cihaz Sahibinin İsmi;
 "DEVICE_OWNER_NAME_FOOTER_TEXT" = "İsminiz";
 "DISABLE_IFFOUND_BUTTON" = "IfFound butonunu iptal et";
-"DISABLE_IFFOUND_BUTTON_FOOTER_TEXT" = "IfFound butonunu kilit ekranında istemiyorsanız Activator'den etkinleştirme aksiyonunu belirleyebilirsiniz.";
-"OWNER_ADDRESS" = "Cihaz sahibinin adresi";
-"IFFOUND_STEALTH_EMAIL" = "IfFound Gizli Email";
-"IFFOUND_STEALTH_EMAIL_FOOTER_TEXT" = "Herhangi bir hata ve ya mesaj göstermeden, cihazın lokasyonu ile birlikte email gönderilecek.";
-"IF_FOUND_WINDOW_ACTIVATION" = "If Found Aktivasyon penceresi";
-"IF_FOUND_WINDOW_DEACTIVATION" = "If Found Deaktivasyon penceresi";
-"PLEASE_RETURN_TO" = "Lütfen Geri Dönün";
-"SHOULD_SHOW_CLOSE_BUTTON" = "Kapatma düğmesini göster";
-"STATE" = "Eyalet";
-"THIS_DEVICE_BELONGS_TO" = "Bu Cihazın Sahibi";
-"USE_MANUAL_POSITIONING" = "Manuel Lokasyon kullan";
-"ZIP_CODE" = "Posta kodu";
+"DISABLE_IFFOUND_BUTTON_FOOTER_TEXT" = "Butonu kilit ekranında istemiyorsanız, pencereyi Activator işlemiyle açmayı ayarladıysanız bunu kullanabilirsiniz.";
+"OWNER_ADDRESS" = "Cihaz Sahibinin Adresi";
+"IFFOUND_STEALTH_EMAIL" = "IfFound Gizli E-mail";
+"IFFOUND_STEALTH_EMAIL_FOOTER_TEXT" = "Gizli E-mail'i etkinleştirirseniz cihaz, herhangi bir hata mesajı veya bildirim göstermeden, gizlice size bulunduğu yer bilgisini gönderecektir.";
+"IF_FOUND_WINDOW_ACTIVATION" = "If Found Pencere Aktivasyonu";
+"IF_FOUND_WINDOW_DEACTIVATION" = "If Found Pencere Deaktivasyonu";
+"PLEASE_RETURN_TO" = "Lütfen cihazı ulaştırın;";
+"SHOULD_SHOW_CLOSE_BUTTON" = "Kapatma Butonunu Göster";
+"STATE" = "Eyalet / Bölge";
+"THIS_DEVICE_BELONGS_TO" = "Bu Cihazın Sahibi:";
+"USE_MANUAL_POSITIONING" = "Buton Yerini Seç";
+"ZIP_CODE" = "Posta Kodu";
 
 //TWEAK ALERTS
 "ALERT_CALL_CANNOT_BE_COMPLETED" = "Arama başarısız oldu. Ayar yanlış yapılmış.";
-"ALERT_CANCEL" = "Iptal Et";
+"ALERT_CANCEL" = "İptal Et";
 "ALERT_CHOOSE_PHOTO" = "Var olan bir resim seç";
 "ALERT_DELETE_PHOTO" = "Var olan resmi sil;
-"ALERT_DISMISS" = "Bırak";
+"ALERT_DISMISS" = "Vazgeç";
 "ALERT_ENTER" = "Gir";
 "ALERT_ENTER_CORRECT_VALUE" = "Geçerli bir değer girdiğinizden emin olun.";
 "ALERT_ERROR" = "Hata";
-"ALERT_ENTER_VALUE" = "Lütfen %i ve %i arasında bir değer seçiniz.";
+"ALERT_ENTER_VALUE" = "Lütfen %i ve %i arasında bir değer seçin.";
 "ALERT_EMAIL_ERROR" = "E-mail gönderilemedi, lütfen daha sonra tekrar deneyin.";
 "ALERT_EMAIL_SENT" = "Cihaz sahibine e-mail gönderildi.";
-"ALERT_NO_IMAGE_CURRENTLY_SAVED" = "Cihaz sahibi için henüz resim seçmediniz.";
+"ALERT_NO_IMAGE_CURRENTLY_SAVED" = "Cihaz sahibi fotoğrafı seçilmemiş.";
 "ALERT_OK" = "Tamam";
-"ALERT_TAKE_OR_CHOOSE" = "Resim mi çekmek istersiniz yoksa varolan resimlerden seçmek mi?";
+"ALERT_TAKE_OR_CHOOSE" = "Fotoğraf çekmek mi; yoksa varolan fotoğraflardan seçmek mi istersiniz?";
 "ALERT_TAKE_PHOTO" = "Fotoğraf Çek";
 
 //TWEAK BUTTONS MAKE THESE ALL CAPS IF POSSIBLE
-"CALL_OWNER" = "Cihaz Sahibini Ara";
-"EMAIL_OWNER" = "Cihaz Sahibine E-mail";
-"MESSAGE_OWNER" = "Cihaz Sahibine Sms";
+"CALL_OWNER" = "CİHAZ SAHİBİNİ ARA";
+"EMAIL_OWNER" = "CİHAZ SAHİBİNE E-MAIL GÖNDER";
+"MESSAGE_OWNER" = "CİHAZ SAHİBİNE SMS GÖNDER";
