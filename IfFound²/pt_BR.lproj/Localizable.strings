@@ -1,13 +1,13 @@
 //MAIN PREFS PAGE
-"ENABLED" = "Enabled";
-"CONFIGURATION" = "Configuration";
-"MAKERS" = "Makers";
-"SUPPORT" = "Support";
+"ENABLED" = "Ativo";
+"CONFIGURATION" = "Configuração";
+"MAKERS" = "Criadores";
+"SUPPORT" = "Suporte";
 
 //CONFIGURATION PREFS PAGE
-"ACTIVATION_METHODS" = "Activation Methods";
-"ACTIVATION_METHODS_FOOTER_TEXT" = "You can choose more than one activation method and deactivation method. Be creative, be smart, be safe.";
-"ADVANCED_SETTINGS" = "Advanced Settings";
+"ACTIVATION_METHODS" = "Métodos de Ativação";
+"ACTIVATION_METHODS_FOOTER_TEXT" = "Você pode escolher mais de um método de ativação e desativação. Seja criativo, seja esperto, fique seguro.";
+"ADVANCED_SETTINGS" = "Configurações Avançadas";
 "ADVANCED_SETTINGS_FOOTER_TEXT" = "Only use these if you want manual control over the button positioning, I will not help you center it to your custom location. You are on your own here.";
 "BUTTON_ACTIONS" = "Button Actions";
 "BUTTON_ACTIONS_FOOTER_TEXT" = "The IfFound button is an Activator event, you can set it up to trigger any action that is available within Activator. Make sure to set it to trigger the IfFound window.";
@@ -38,22 +38,22 @@
 
 //TWEAK ALERTS
 "ALERT_CALL_CANNOT_BE_COMPLETED" = "This call can not be completed as dialed. It has been setup incorrectly in the settings.";
-"ALERT_CANCEL" = "Cancel";
+"ALERT_CANCEL" = "Cancelar";
 "ALERT_CHOOSE_PHOTO" = "Choose an Existing Photo";
 "ALERT_DELETE_PHOTO" = "Delete Existing Photo";
-"ALERT_DISMISS" = "Dismiss";
+"ALERT_DISMISS" = "Descartar";
 "ALERT_ENTER" = "Enter";
 "ALERT_ENTER_CORRECT_VALUE" = "Ensure you entered a valid value.";
-"ALERT_ERROR" = "Error";
-"ALERT_ENTER_VALUE" = "Please enter a value between %i and %i.";
-"ALERT_EMAIL_ERROR" = "Email could not be sent at this time, please try again in a couple minutes.";
-"ALERT_EMAIL_SENT" = "Email sent successfully to device owner.";
-"ALERT_NO_IMAGE_CURRENTLY_SAVED" = "You currently don't have an image saved for your owner image.";
+"ALERT_ERROR" = "Erro";
+"ALERT_ENTER_VALUE" = "Favor inserir um valor entre %i e %i.";
+"ALERT_EMAIL_ERROR" = "O email não pode ser enviado, por favor tente novamente em alguns minutos.";
+"ALERT_EMAIL_SENT" = "Um email ao dono do dispositivo foi enviado com suceso.";
+"ALERT_NO_IMAGE_CURRENTLY_SAVED" = "Você não tem uma imagem de dono definida.";
 "ALERT_OK" = "OK";
-"ALERT_TAKE_OR_CHOOSE" = "Do you want to take a photo or choose an existing photo?";
-"ALERT_TAKE_PHOTO" = "Take a Photo";
+"ALERT_TAKE_OR_CHOOSE" = "Você quer tirar uma nova foto ou escolher uma existente?";
+"ALERT_TAKE_PHOTO" = "Tirar Foto";
 
 //TWEAK BUTTONS MAKE THESE ALL CAPS IF POSSIBLE
-"CALL_OWNER" = "CALL OWNER";
-"EMAIL_OWNER" = "EMAIL OWNER";
-"MESSAGE_OWNER" = "MESSAGE OWNER";
+"CALL_OWNER" = "LIGAR PRO DONO";
+"EMAIL_OWNER" = "ENVIAR EMAIL AO DONO";
+"MESSAGE_OWNER" = "ENVIAR SMS AO DONO";
