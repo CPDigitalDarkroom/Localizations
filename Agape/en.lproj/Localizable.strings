@@ -1,3 +1,10 @@
+"AGAPE_DATABASE_ERROR" = "There was an error communicating with the server, please try again in a couple minutes. If issue persists contact me via the support button on the main settings page.";
+"AGAPE_ERROR" = "Something went terribly wrong, sound the alarms! Seriously though, if you see this something went seriously wrong.";
+"AGAPE_LICENSE_DEPLETED" = "Sorry but there are no more licenses available for this gift anymore. Please select another one";
+"AGAPE_NOT_STARTED" = "Thanks for the enthusiasm but the giveaway hasn't started yet! You are welcome to fill in the information and have it ready for when the giveaway does start though.";
+"AGAPE_OVER" = "Sorry about this but the giveaway is now over, it seems you missed it. There will be other chances so don't worry :)";
+"AGAPE_REQUEST_RECEIVED" = "Thank you for your submission. It's been recorded and pending activation, please allow up to a couple hours for registration.";
+"AGAPE_REQUEST_ALREADY_RECEIVED" = "You've already requested a gift. Only one gift is allowed per user.";
 
 "CREDITS_FOOTER_TEXT" = "Agape © 2014 CP Digital Darkroom";
 "DESIRED_TWEAK" = "Desired Gift";
@@ -11,6 +18,7 @@
 ⁵ - limited to 50 licenses.";
 
 "GIVEAWAYS" = "Giveaways";
+"OK" = "Ok";
 "PARTICIPENTS" = "Participants";
 "PARTICIPATING_DEVS" = "Participating Developers";
 "SUPPORT" = "Support";
