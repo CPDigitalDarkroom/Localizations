@@ -1,24 +1,24 @@
-"AGAPE_DATABASE_ERROR" = "There was an error communicating with the server, please try again in a couple minutes. If issue persists contact me via the support button on the main settings page.";
-"AGAPE_ERROR" = "Something went terribly wrong, sound the alarms! Seriously though, if you see this something went seriously wrong.";
-"AGAPE_LICENSE_DEPLETED" = "Sorry but there are no more licenses available for this gift anymore. Please select another one";
-"AGAPE_NOT_STARTED" = "Thanks for the enthusiasm but the giveaway hasn't started yet! You are welcome to fill in the information and have it ready for when the giveaway does start though.";
-"AGAPE_OVER" = "Sorry about this but the giveaway is now over, it seems you missed it. There will be other chances so don't worry :)";
-"AGAPE_REQUEST_RECEIVED" = "Thank you for your submission. It's been recorded and pending activation, please allow up to a couple hours for registration.";
-"AGAPE_REQUEST_ALREADY_RECEIVED" = "You've already requested a gift. Only one gift is allowed per user.";
+"AGAPE_DATABASE_ERROR" = "Une erreur s'est produite avec le serveur, veuillez réessayer dans quelques minutes. Si le problème persiste veuillez contacter le support via le bouton en bas de page.";
+"AGAPE_ERROR" = "Quelque chose de terrible est arrivé, le son de l'alarme ! Sérieusement si vous voyez ça c'est quelque chose ne va pas.";
+"AGAPE_LICENSE_DEPLETED" = "Désolé, mais il n'y a plus de licences disponibles pour ce cadeau. S'il vous plaît veuillez en sélectionner un autre.";
+"AGAPE_NOT_STARTED" = "Merci pour cet enthousiasme mais l'offre n'a pas encore commencé ! Je vous invites à lire les informations et à être prêt lorsque l'offre commencera.";
+"AGAPE_OVER" = "Désolé mais cette offre est terminé, je crois que vous l'avez raté. Vous aurez d'autres chances donc pas de souci :)";
+"AGAPE_REQUEST_RECEIVED" = "Merci, votre commande est enregistré et est en cours d'activation, veuillez patienter quelques heures avant l'activation de votre licence.";
+"AGAPE_REQUEST_ALREADY_RECEIVED" = "Vous avez déjà fait une demande. Une seule demande est autorisé par utilisateur.";
 
 "CREDITS_FOOTER_TEXT" = "Agape © 2014 CP Digital Darkroom";
-"DESIRED_TWEAK" = "Desired Gift";
-"DONATE" = "Donate";
-"GIVEAWAY_FOOTER" = "The giveaway will run for 1 hour. During the giveaway you will be able to choose a tweak of your liking. Once you've chosen your tweak and submitted it won't gift anymore.";
+"DESIRED_TWEAK" = "Cadeau désiré";
+"DONATE" = "Don";
+"GIVEAWAY_FOOTER" = "L'offre ne dure qu'une heure. Pendant ce temps vous pourrez choisir le tweak que vous aimez. Vous ne pourrez soumettre qu'une seule offre.";
 
-"GIVEAWAY_GIFT_NOTICES" = "¹ - limited to 10 copies each.
-² - in the early beta stages for iOS 8. This early gifting will allow you to take part in the upcoming beta access.
-³ - limited to 50 licenses.
-⁴ - limited to 50 licenses.
-⁵ - limited to 50 licenses.";
+"GIVEAWAY_GIFT_NOTICES" = "¹ - limité à 10 copies.
+² - encore en beta pour l'iOS 8. Cette offre vous permet d'avoir un accès à la beta.
+³ - limité à 50 licences.
+⁴ - limité à 50 licences.
+⁵ - limité à 50 licences.";
 
-"GIVEAWAYS" = "Giveaways";
+"GIVEAWAYS" = "Cadeaux ";
 "OK" = "Ok";
 "PARTICIPENTS" = "Participants";
-"PARTICIPATING_DEVS" = "Participating Developers";
+"PARTICIPATING_DEVS" = "Développeurs participants";
 "SUPPORT" = "Support";
