@@ -1,0 +1,33 @@
+"ADD_TO_REACHABILITY" = "Add To Reachability";
+
+"ALBUM_ART_CORNER_RADIUS" = "Album Art Corner Radius";
+
+"ALBUM_ART_RADIUS_FOOTER_TEXT" = "Not all the view layouts have small album art displayed but if your chosen view does this will control its corner radius. \n *Tap the number to enter a number manually. Decimals are not supported in this popup yet.";
+
+"ART_OVERLAY_THEME" = "Art Overlay Theme";
+
+"COLORIZE_CONTROL_CENTER" = "Colorize Control Center";
+
+"COLORIZE_CONTROL_CENTER_FOOTER" = "When this option is enabled Bragi will attempt to colorize the Control Center to match the album art. This is experimental at this moment but will be improved with time.";
+
+"CONFIGURATION" = "Configuration";
+
+"ENABLE" = "Enable";
+
+"HIDE_HEART" = "Hide Heart";
+
+"HIDE_SHARE" = "Hide Share Action";
+
+"INVERT_FOOTER_TEXT" = "Some people might like swiping left skipping the song instead of going to the previous track and swiping right going to the previous track.";
+
+"INVERT_SWIPE_ACTIONS" = "Invert Swipe Actions";
+
+"MAKERS" = "Makers";
+
+"SUPPORT" = "Support";
+
+"TRANSLATION_CREDITS" = "Translation Credits";
+
+"USE_CUSTOM_COVER_OVERLAY" = "Use Custom Art Overlay";
+
+"USE_VIBRANCY_LABELS" = "Use Vibrancy Labels";
