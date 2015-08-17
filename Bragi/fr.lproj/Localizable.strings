@@ -1,0 +1,34 @@
+//Thanks To Ziph0n For This Localization
+"ADD_TO_REACHABILITY" = "Ajouter dans la vue ‘Reachability’";
+
+"ALBUM_ART_CORNER_RADIUS" = "Rayon d'angle de la pochette d'album";
+
+"ALBUM_ART_RADIUS_FOOTER_TEXT" = "Toutes les vues n'affichent pas une petite pochette d'album mais si vous avez choisi une vue l'affichant, cette option va modifier son rayon d'angle. \n *Touchez le nombre pour entrer une valeur manuellement. Les nombres décimaux ne sont pas encore pris en charge.";
+
+"ART_OVERLAY_THEME" = "Thème de la pochette";
+
+"COLORIZE_CONTROL_CENTER" = "Coloriser le centre de contrôle";
+
+"COLORIZE_CONTROL_CENTER_FOOTER" = "Si cette option est activée, Bragi va essayer de coloriser le centre de contrôle pour le faire correspondre à la pochette d'album. Ceci est expérimental pour le moment mais sera amélioré plus tard.";
+
+"CONFIGURATION" = "Configuration";
+
+"ENABLE" = "Activer";
+
+"HIDE_HEART" = "Cacher le cœur";
+
+"HIDE_SHARE" = "Cacher le bouton de partage";
+
+"INVERT_FOOTER_TEXT" = "Certaines personnes peuvent vouloir glisser à gauche pour passer la piste en cours au lieu de jouer la piste précédente et glisser vers la droite pour jouer la piste précédente.";
+
+"INVERT_SWIPE_ACTIONS" = "Inverser les actions de glisser";
+
+"MAKERS" = "Concepteurs";
+
+"SUPPORT" = "Aide";
+
+"TRANSLATION_CREDITS" = "Remerciements pour les traductions";
+
+"USE_CUSTOM_COVER_OVERLAY" = "Utiliser un revêtement personnalisé pour la pochette d'album";
+
+"USE_VIBRANCY_LABELS" = "Utiliser des étiquettes dynamiques";

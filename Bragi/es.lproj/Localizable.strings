@@ -1,0 +1,34 @@
+//Thanks to jeremiareyes for the localization!
+"ADD_TO_REACHABILITY" = "Añadir al Alcance Fácil";
+
+"ALBUM_ART_CORNER_RADIUS" = "Radio de la Esquina de la Carátula del Álbum ";
+
+"ALBUM_ART_RADIUS_FOOTER_TEXT" = "No todos los diseños tienen la previsualización de la carátula, pero si su selección la incluye, manualmente controlará el radio de esquina. \n *Pulse el número para introducer un número manualmente. Decimales no son compatibles con esto aún. ";
+
+"ART_OVERLAY_THEME" = "Superposición para el Arte del Tema";
+
+"COLORIZE_CONTROL_CENTER" = "Control Center Colorizado";
+
+"COLORIZE_CONTROL_CENTER_FOOTER" = "Cuando esté encendido, Bragi intentará de colorizer el Control Center para que coincide con los colores de la carátula. Actualmente esto es experimental y mejorará con el tiempo. ";
+
+"CONFIGURATION" = "Configuración";
+
+"ENABLE" = "Encender";
+
+"HIDE_HEART" = "Ocultar Corazon";
+
+"HIDE_SHARE" = "Ocultar Compartir";
+
+"INVERT_FOOTER_TEXT" = "A Algunas personas quizás les gustará deslizar hacia la izquierda para saltar a la próxima canción en vez de ir a la canción previa y deslizar hacia la derecho para ir a la canción previa. ";
+
+"INVERT_SWIPE_ACTIONS" = "Invertir Acciones de Deslizo";
+
+"MAKERS" = "Creadores";
+
+"SUPPORT" = "Soporte";
+
+"TRANSLATION_CREDITS" = "Créditos de Traducción";
+
+"USE_CUSTOM_COVER_OVERLAY" = "Usar Superposición Personalizada de la Carátula";
+
+"USE_VIBRANCY_LABELS" = "Usar Etiquetas Dinámicas";

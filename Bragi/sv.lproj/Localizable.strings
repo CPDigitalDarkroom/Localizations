@@ -1,0 +1,34 @@
+// Thanks to djaovx  for this localization
+"ADD_TO_REACHABILITY" = "Lägg till i 'Lätt att nå'-vyn";
+
+"ALBUM_ART_CORNER_RADIUS" = "Hörnradie för skivomslag";
+
+"ALBUM_ART_RADIUS_FOOTER_TEXT" = "Inte alla layouts har ett litet skivomslag, men om din valda vy har det kommer detta att kontrollera hörnradien. \n *Klicka på numret för att skriva in ett nummer manuellt. Decimaler stöds inte än.";
+
+"ART_OVERLAY_THEME" = "Skivomslagets överlappnings-tema";
+
+"COLORIZE_CONTROL_CENTER" = "Färga kontrollcenter";
+
+"COLORIZE_CONTROL_CENTER_FOOTER" = "När detta alternativet är på kommer Bragi att försöka färga kontrollcenter för att stämma överens med skivomslagets färger. I nuläget är detta ett experimentellt läge, men det kommer förbättras med tiden.";
+
+"CONFIGURATION" = "Inställningar";
+
+"ENABLE" = "Slå på";
+
+"HIDE_HEART" = "Göm hjärtat";
+
+"HIDE_SHARE" = "Göm delningsknappen";
+
+"INVERT_FOOTER_TEXT" = "Några personer kanske tycker om att dra till vänster för att hoppa över en låt (istället för att gå till föregående låt), och dra till höger för att gå till föregående låt.";
+
+"INVERT_SWIPE_ACTIONS" = "Invertera drag-åtgärderna";
+
+"MAKERS" = "Skaparna";
+
+"SUPPORT" = "Support";
+
+"TRANSLATION_CREDITS" = "Översättare";
+
+"USE_CUSTOM_COVER_OVERLAY" = "Använd anpassad skivomslags-överlappning";
+
+"USE_VIBRANCY_LABELS" = "Använd pulserande etiketter";
