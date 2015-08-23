@@ -7,11 +7,17 @@
 
 "ART_OVERLAY_THEME" = "Thème de la pochette";
 
+"CHANGE_REQUIRES_RESPRING" = "Toggling this option will require a respring";
+
 "COLORIZE_CONTROL_CENTER" = "Coloriser le centre de contrôle";
 
 "COLORIZE_CONTROL_CENTER_FOOTER" = "Si cette option est activée, Bragi va essayer de coloriser le centre de contrôle pour le faire correspondre à la pochette d'album. Ceci est expérimental pour le moment mais sera amélioré plus tard.";
 
 "CONFIGURATION" = "Configuration";
+
+"DEFAULT_MUSIC_PLAYER" = "Default Music Player";
+
+"DEFAULT_MUSIC_PLAYER_FOOTER" = "When no music is playing the blank album art image will open this app when tapped";
 
 "ENABLE" = "Activer";
 
@@ -31,4 +37,8 @@
 
 "USE_CUSTOM_COVER_OVERLAY" = "Utiliser un revêtement personnalisé pour la pochette d'album";
 
+"USE_BLURREDVIEW_IN_CC" = "Use Reachability Style In CC";
+
 "USE_VIBRANCY_LABELS" = "Utiliser des étiquettes dynamiques";
+
+"VIBRANCY_LABELS_FOOTER" = "Vibrancy labels only affect the reachability style view. You must enable reachability view in CC if you want to use them there";

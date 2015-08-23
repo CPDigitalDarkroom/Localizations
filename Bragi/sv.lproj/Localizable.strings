@@ -7,11 +7,17 @@
 
 "ART_OVERLAY_THEME" = "Skivomslagets överlappnings-tema";
 
+"CHANGE_REQUIRES_RESPRING" = "Toggling this option will require a respring";
+
 "COLORIZE_CONTROL_CENTER" = "Färga kontrollcenter";
 
 "COLORIZE_CONTROL_CENTER_FOOTER" = "När detta alternativet är på kommer Bragi att försöka färga kontrollcenter för att stämma överens med skivomslagets färger. I nuläget är detta ett experimentellt läge, men det kommer förbättras med tiden.";
 
 "CONFIGURATION" = "Inställningar";
+
+"DEFAULT_MUSIC_PLAYER" = "Default Music Player";
+
+"DEFAULT_MUSIC_PLAYER_FOOTER" = "When no music is playing the blank album art image will open this app when tapped";
 
 "ENABLE" = "Slå på";
 
@@ -31,4 +37,8 @@
 
 "USE_CUSTOM_COVER_OVERLAY" = "Använd anpassad skivomslags-överlappning";
 
+"USE_BLURREDVIEW_IN_CC" = "Use Reachability Style In CC";
+
 "USE_VIBRANCY_LABELS" = "Använd pulserande etiketter";
+
+"VIBRANCY_LABELS_FOOTER" = "Vibrancy labels only affect the reachability style view. You must enable reachability view in CC if you want to use them there";
