@@ -7,7 +7,7 @@
 
 "ART_OVERLAY_THEME" = "Skivomslagets överlappnings-tema";
 
-"CHANGE_REQUIRES_RESPRING" = "Toggling this option will require a respring";
+"CHANGE_REQUIRES_RESPRING" = "Ändrar du denna inställning krävs en respring";
 
 "COLORIZE_CONTROL_CENTER" = "Färga kontrollcenter";
 
@@ -15,9 +15,9 @@
 
 "CONFIGURATION" = "Inställningar";
 
-"DEFAULT_MUSIC_PLAYER" = "Default Music Player";
+"DEFAULT_MUSIC_PLAYER" = "Förvald musikspelare";
 
-"DEFAULT_MUSIC_PLAYER_FOOTER" = "When no music is playing the blank album art image will open this app when tapped";
+"DEFAULT_MUSIC_PLAYER_FOOTER" = "När ingen musik spelas kommer det tomma skivomslaget vid tryck öppna denna app";
 
 "ENABLE" = "Slå på";
 
@@ -37,8 +37,8 @@
 
 "USE_CUSTOM_COVER_OVERLAY" = "Använd anpassad skivomslags-överlappning";
 
-"USE_BLURREDVIEW_IN_CC" = "Use Reachability Style In CC";
+"USE_BLURREDVIEW_IN_CC" = "Använd "Lätt att nå-vy"-stilen i kontrollcenter";
 
 "USE_VIBRANCY_LABELS" = "Använd pulserande etiketter";
 
-"VIBRANCY_LABELS_FOOTER" = "Vibrancy labels only affect the reachability style view. You must enable reachability view in CC if you want to use them there";
+"VIBRANCY_LABELS_FOOTER" = "Pulserande ettiketter påverkar bara "Lätt att nå"-vyn. Du måste slå på "lätt att nå"-vyn i kontrollcenter om du vill använda dem där";
