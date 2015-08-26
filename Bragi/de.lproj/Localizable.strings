@@ -1,32 +1,32 @@
 "ADD_TO_REACHABILITY" = "Zur Reachability Ansicht hinzufügen.";
 
-"ALBUM_ART_CORNER_RADIUS" = "Album Art Ecken Radius";
+"ALBUM_ART_CORNER_RADIUS" = "Album-Art Ecken-Radius";
 
-"ALBUM_ART_RADIUS_FOOTER_TEXT" = "Nicht bei jedem Ansichten Layout wird kleine Album Art angezeigt, aber falls die von Ihnen gewählte Ansicht es unterstützt, kontrolliert dies den Radius der Ecken derselben. \n *Nummer anklicken für manuelle Eingabe. Dezimalzahlen werden in diesem Pop-Up noch nicht unterstützt.";
+"ALBUM_ART_RADIUS_FOOTER_TEXT" = "Nicht bei jedem Ansichten-Layout wird eine kleine Album-Art angezeigt, aber falls die von Ihnen gewählte Ansicht es unterstützt, wird der Ecken-Radius entsprechend angepasst. \n *Nummer anklicken für manuelle Eingabe. Dezimalzahlen werden in diesem Pop-Up noch nicht unterstützt.";
 
-"ART_OVERLAY_THEME" = "Art Overlay Thema";
+"ART_OVERLAY_THEME" = "Art-Overlay Aussehen";
 
 "CHANGE_REQUIRES_RESPRING" = "Das Auswählen dieser Option erfordert einen Respring des Geräts.";
 
-"COLORIZE_CONTROL_CENTER" = "Einfärbung des Kontrollzentrums";
+"COLORIZE_CONTROL_CENTER" = "Kontrollzentrum einfärben";
 
-"COLORIZE_CONTROL_CENTER_FOOTER" = "Wenn diese Option aktiviert ist, wird Bragi versuchen das Kontrollzentrum angepasst an die Album Art einzufärben. Dieses Feature ist noch experimentell, wird aber mit der Zeit verbessert.";
+"COLORIZE_CONTROL_CENTER_FOOTER" = "Ist Option aktiviert, wird Bragi versuchen das Kontrollzentrum passend der Album-Art einzufärben. Dieses Feature ist noch experimentell, wird aber mit der Zeit verbessert.";
 
 "CONFIGURATION" = "Einstellungen";
 
-"DEFAULT_MUSIC_PLAYER" = "Standard Musik-Player";
+"DEFAULT_MUSIC_PLAYER" = "Standard Musik-App";
 
-"DEFAULT_MUSIC_PLAYER_FOOTER" = "Wenn keine Musik spielt, öffnet ein Klick auf die leere Album Art diese App.";
+"DEFAULT_MUSIC_PLAYER_FOOTER" = "Wird keine Musik abgespielt, öffnet ein Klick auf die leere Album-Art die ausgewählte Standart Musik-App.";
 
 "ENABLE" = "Aktivieren";
 
-"HIDE_HEART" = "Herz verstecken";
+"HIDE_HEART" = "Herz ausblenden";
 
-"HIDE_SHARE" = "Share Option verstecken";
+"HIDE_SHARE" = "Teilen-Option ausblenden";
 
-"INVERT_FOOTER_TEXT" = "Manche Leuten möchten vielleicht lieber nach links swipen um den Song zu skippen und nach rechts um zum vorigen Track zu gelangen.(Normal ist es andersherum.)";
+"INVERT_FOOTER_TEXT" = "Aktivieren für: Nach Links wischen um zum nächsten Song zu wechseln und nach Rechts wischen um zum vorigen Song zu gelangen. (Normal ist es umgekehrt)";
 
-"INVERT_SWIPE_ACTIONS" = "Invertiere die Swipe Funktionen";
+"INVERT_SWIPE_ACTIONS" = "Wisch-Gesten umkehren";
 
 "MAKERS" = "Macher";
 
@@ -34,10 +34,10 @@
 
 "TRANSLATION_CREDITS" = "Übersetzer";
 
-"USE_CUSTOM_COVER_OVERLAY" = "Benutzerdefiniertes Art Overlay benutzen";
+"USE_CUSTOM_COVER_OVERLAY" = "Benutzerdefiniertes Album-Art Overlay benutzen";
 
-"USE_BLURREDVIEW_IN_CC" = "Reachability Style im CC benutzen";
+"USE_BLURREDVIEW_IN_CC" = "Reachability-Style im Kontrollzentrum benutzen";
 
-"USE_VIBRANCY_LABELS" = "Vibrancy Labels benutzen";
+"USE_VIBRANCY_LABELS" = "Durchscheinende Schriften benutzen";
 
-"VIBRANCY_LABELS_FOOTER" = "Vibrancy labels beinflussen nur die Reachability Style Ansicht. Die Reachability Ansicht muss im Kontrollzentrum aktiviert sein.";
+"VIBRANCY_LABELS_FOOTER" = "Durchscheinende Schriften beeinflussen nur die Reachability-Style Ansicht. Die Reachability-Style Ansicht muss für das Kontrollzentrum aktiviert sein.";
