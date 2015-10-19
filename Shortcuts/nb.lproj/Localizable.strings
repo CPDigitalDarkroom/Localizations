@@ -1,0 +1,36 @@
+/*
+ Localizable.strings
+ Shortcuts
+ 
+ Created by Juan Carlos Perez on 10/16/15.
+ Copyright © 2015 CP DigitalDarkroom. All rights reserved.
+
+ */
+ 
+/*Settings Pane Translation*/
+"CONFIGURATION" = "Configuration";
+"ENABLE" = "Enable";
+"MAKERS" = "Makers";
+"SUPPORT" = "Support";
+
+/*Tweak Strings*/
+"Add New Cydia Repo" = "Legg Til Ny Cydia Repo";
+"Add Source" = "Legg Til Kilde";
+"High:" = "Høy:";
+"Low:" = "Lav:";
+"Play/Pause" = "Spill/Pause";
+"Power Off" = "Slå Av";
+"Put Device In SafeMode" = "Sett Enhet i SikkerhetsModus";
+"Quick Restart Device" = "Hurtig Omstart";
+"Reboot" = "Reboot";
+"Respring" = "Respring";
+"Restart Device" = "Omstart Enhet";
+"SafeMode" = "SikkerhetsModus";
+"Shortcuts Weather Icon" = "Forkortelse Vær Ikon";
+"Shuffle Music" = "Sett Musikk i Tilfeldig Rekkefølge";
+"Shuffle Now Playing Music" = "Tilfeldig Rekkefølge på Nåværende Musikk";
+"Skip Back" = "Spol Tilbake";
+"Skip Forward" = "Spol Frem";
+"Skip to the next song" = "Hopp Til Neste Sang";
+"Skip to the previous song" = "Hopp Til Forrige Sang";
+"Turn Device Off" = "Skru Av Enheten";

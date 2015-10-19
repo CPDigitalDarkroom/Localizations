@@ -1,0 +1,36 @@
+/*
+ Localizable.strings
+ Shortcuts
+ 
+ Created by Juan Carlos Perez on 10/16/15.
+ Copyright © 2015 CP DigitalDarkroom. All rights reserved.
+
+ */
+ 
+/*Settings Pane Translation*/
+"CONFIGURATION" = "Configuration";
+"ENABLE" = "Enable";
+"MAKERS" = "Makers";
+"SUPPORT" = "Support";
+
+/*Tweak Strings*/
+"Add New Cydia Repo" = "新增 Cydia 軟體源";
+"Add Source" = "新增軟體源";
+"High:" = "高溫：";
+"Low:" = "低溫：";
+"Play/Pause" = "播放/暫停";
+"Power Off" = "關機";
+"Put Device In SafeMode" = "裝置重新啟動至安全模式";
+"Quick Restart Device" = "快速重新啟動主畫面";
+"Reboot" = "重新開機";
+"Respring" = "重啟主畫面";
+"Restart Device" = "裝置重新開機";
+"SafeMode" = "安全模式";
+"Shortcuts Weather Icon" = "天氣圖示捷徑";
+"Shuffle Music" = "隨機播放";
+"Shuffle Now Playing Music" = "隨機播放音樂";
+"Skip Back" = "前一首";
+"Skip Forward" = "下一首";
+"Skip to the next song" = "跳至下一首歌";
+"Skip to the previous song" = "跳至前一首歌";
+"Turn Device Off" = "將裝置關機";

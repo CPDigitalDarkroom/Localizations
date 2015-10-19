@@ -1,0 +1,36 @@
+/*
+ Localizable.strings
+ Shortcuts
+ 
+ Created by Juan Carlos Perez on 10/16/15.
+ Copyright © 2015 CP DigitalDarkroom. All rights reserved.
+
+ */
+ 
+/*Settings Pane Translation*/
+"CONFIGURATION" = "Configuration";
+"ENABLE" = "Enable";
+"MAKERS" = "Makers";
+"SUPPORT" = "Support";
+
+/*Tweak Strings*/
+"Add New Cydia Repo" = "Aggiungi Una Nuova Sorgente";
+"Add Source" = "Nuova Sorgente";
+"High:" = "Massima:";
+"Low:" = "Minima:";
+"Play/Pause" = "Play/Pausa";
+"Power Off" = "Spegni";
+"Put Device In SafeMode" = "Riavvia in SafeMode";
+"Quick Restart Device" = "Riavvia Springboard";
+"Reboot" = "Riavvia";
+"Respring" = "Respring";
+"Restart Device" = "Riavvia Dispositivo";
+"SafeMode" = "SafeMode";
+"Shortcuts Weather Icon" = "Icona Meteo Shortcuts";
+"Shuffle Music" = "Riproduzione Casuale";
+"Shuffle Now Playing Music" = "";
+"Skip Back" = "Indietro";
+"Skip Forward" = "Successivo";
+"Skip to the next song" = "Riproduci il brano successivo";
+"Skip to the previous song" = "Riproduci il brano precedente";
+"Turn Device Off" = "Spegni il Dispositivo";

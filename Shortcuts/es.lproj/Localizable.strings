@@ -1,0 +1,32 @@
+/*
+ Localizable.strings
+ Shortcuts
+ 
+ Created by Juan Carlos Perez on 10/16/15.
+ Copyright © 2015 CP DigitalDarkroom. All rights reserved.
+
+ */
+"Add New Cydia Repo" = "Añadir un nuevo repositorio de Cydia";
+"Add Source" = "Añadir repositorio";
+"CONFIGURATION" = "Configuration";
+"ENABLE" = "Activar";
+"High:" = "Máxima:";
+"Low:" = "Mínima:";
+"MAKERS" = "Creadores";
+"Play/Pause" = "Reproducir/Pausa";
+"Power Off" = "Apagar";
+"Put Device In SafeMode" = "Poner dispositivo en modo seguro";
+"Quick Restart Device" = "Reinicio rapido del dispositivo";
+"Reboot" = "Reiniciar";
+"Respring" = "Respring";
+"Restart Device" = "Reiniciar dispositivo";
+"SafeMode" = "Modo seguro";
+"Shortcuts Weather Icon" = "Accesos directos del icono de Tiempo";
+"Shuffle Music" = "Música aleatoria";
+"Shuffle Now Playing Music" = "Reproducción de música aleatoria";
+"Skip Back" = "Anterior";
+"Skip Forward" = "Siguiente";
+"Skip to the next song" = "Saltar a la canción siguiente";
+"Skip to the previous song" = "Saltar a la canción anterior";
+"SUPPORT" = "Ayuda";
+"Turn Device Off" = "Apagar dispositivo";
