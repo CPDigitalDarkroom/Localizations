@@ -1,0 +1,52 @@
+/*
+ Localizable.strings
+ Shortcuts
+ 
+ Created by Juan Carlos Perez on 10/16/15.
+ Copyright © 2015 CP DigitalDarkroom. All rights reserved.
+
+ */
+"Add New Cydia Repo" = "Add New Cydia Repo";
+"Add Source" = "Add Source";
+"Base Exchange" = "Base Exchange";
+"CONFIGURATION" = "Configuration";
+"Comparison Exchange" = "Comparison Exchange";
+"ENABLE" = "Enable";
+"Enter Safe Mode" =  "Enter Safe Mode";
+"High:" = "High:";
+"Low:" = "Low:";
+"MAKERS" = "Makers";
+"Not Right Now" = "Not Right Now";
+"Play/Pause" = "Play/Pause";
+"Power Off" = "Power Off";
+"Power Off Confirmation" = "Are you sure you want to power off your device?";
+"Put Device In SafeMode" = "Put Device In SafeMode";
+"Quick Restart Device" = "Quick Restart Device";
+"Reboot" = "Reboot";
+"Reboot Confirmation" = "Are you sure you want to reboot?";
+"Respring" = "Respring";
+"Respring Confirmation" = "Are you sure you want to respring";
+"Restart Device" = "Restart Device";
+"SafeMode" = "SafeMode";
+"SafeMode Confirmation" = "Are you sure you want to enter SafeMode?";
+"Settings Icon" = "Settings Icon";
+"Shortcut Item 1" = "Shortcut Item 1";
+"Shortcut Item 2" = "Shortcut Item 2";
+"Shortcut Item 3" = "Shortcut Item 3";
+"Shortcut Item 4" = "Shortcut Item 4";
+"Shortcuts Weather Icon" = "Shortcuts Weather Icon";
+"Shuffle Music" = "Shuffle Music";
+"Shuffle Now Playing Music" = "Shuffle Now Playing Music";
+"Skip Back" = "Skip Back";
+"Skip Forward" = "Skip Forward";
+"Skip to the next song" = "Skip to the next song";
+"Skip to the previous song" = "Skip to the previous song";
+"Stocks Icon Footer" = "Currently it supports on stock at a time, more will be added. Please use correct stock symbol in proper format";
+"SUPPORT" = "Support";
+"Toggle Power Save" = "Toggle Power Save";
+"Toggle Wifi-Calling" = "Toggle Wifi-Calling";
+"Turn Device Off" = "Turn Device Off";
+"Use Celsius" = "Use Celsius";
+"Use Confirmation" = "Use Confirmation";
+"Use Kelvin" = "Use Kelvin";
+"Weather Icon Footer" = "Make sure location is enabled for the weather app in settings";
