@@ -1,221 +1,661 @@
 "Activity Icon" = "Icono de Actividad";
+
+
 "Advanced" = "Avanzado";
+
+
 "Airdrop" = "Airdrop";
-"Airplane Alerts" = "Alertas de Avion";
-"Airplane Icon" = "Icono de Avion";
+
+
+"Airplane Alerts" = "Alertas de Modo de Avión";
+
+
+"Airplane Icon" = "Icono de Modo de Avión";
+
+
 "Alarm Icon" = "Icono de Alarma";
+
+
 "Alerts" = "Alertas";
-"Allow Nested Folders" = "Permitir Carpetas Nested Folders";
-"Allow Touch During Animation" = "Permitir Funcion Durante Animacion";
+
+
+"Allow Nested Folders" = "Permitir Carpetas Anidadas";
+
+
+"Allow Touch During Animation" = "Permitir Toque durante la animación";
+
+
 "Animations" = "Animaciones";
-"App Hide" = "Esconder La Aplicacion";
-"App Icon Hiding" = "Esconder El Icono de La Aplicacion";
-"App Switcher" = "Selector de Aplicaciones";
+
+
+"App Hide" = "Ocultar Aplicación";
+
+
+"App Icon Hiding" = "Icono de Ocultar Aplicación";
+
+
+"App Switcher" = "Multitarea";
+
+
 "Are You Sure?" = "Estas Seguro?";
+
+
 "Appearance" = "Apariencia";
+
+
 "Assistant Icon" = "Icono de Asistente";
-"Automatic Backups" = "Respaldos Automaticos";
-"Automatic Backups Footer" = "Respaldos Automaticos se haran una vez al dia.";
-"Background Opacity" = "Opacidad del Antecedente";
-"Background Opacity Footer Note" = "Manteniendose sobre el 0.7 mantiene el Control Center con una buena apariencia cuando se trata del contraste";
-"Backups" = "Respaldos";
-"Battery Icon" = "Icono de Bateria";
-"Battery Percent and Icon" = "Porcentaje de Bateria y Icono";
-"Battery Percent Symbol" = "Simbolo del Porcentaje de Bateria";
+
+
+"Automatic Backups" = "Copia de Seguridad Automática";
+
+
+"Automatic Backups Footer" = "Copias de Seguridad  se harán una vez al Día  "; 
+
+
+"Background Opacity" = "Opacidad de Fondo";
+
+
+"Background Opacity Footer Note" = "Manteniéndose Encima de  0.7 mantiene en Centro de Control verse bien en términos de contraste";
+
+
+"Backups" = "Copia de Seguridad";
+
+
+"Battery Icon" = "Icono de Batería";
+
+
+"Battery Percent and Icon" = "Por Ciento de Batería e Icono ";
+
+
+"Battery Percent Symbol" = "Símbolo de Por Ciento de Batería ";
+
+
 "Behavior" = "Comportamiento";
-"Bluetooth Battery Icon" = "Icono de Bateria Bluetooth";
+
+
+"Bluetooth Battery Icon" = "Icono de Batería de Bluetooth";
+
+
 "Bluetooth Icon" = "Icono de Bluetooth";
-"Blur Amount" = "Cantidad de Empañado";
-"Blur Style" = "Estilo de Empañdo";
-"Brightness" = "Luminosidad";
-"Buy Button" = "Boton de Compras";
-"Call Forward Icon" = "Icono de Desvio de Llamadas";
-"Can Pop From Side" = "Puede Aparecer de Lado";
-"Carrier Text" = "Texto de Transportista Movil";
-"Cellular Data" = "Datos Moviles";
-"Cellular Data Alerts" = "Alertas de Datos Moviles";
-"Charging Bolt Icon" = "Icono de Carga de Perni";
-"Chevron" = "Flecha";
+
+
+"Blur Amount" = "Cantidad de Desenfoque";
+
+
+"Blur Style" = "Estilo de Desenfoque";
+
+
+"Brightness" = "Brillo";
+
+
+"Buy Button" = "Botón De Comprar";
+
+
+"Call Forward Icon" = "Icono de Desvió de Llamada";
+
+
+"Can Pop From Side" = "Puede Pop de Un Lado";
+
+
+"Carrier Text" = "Texto de Portador";
+
+
+"Cellular Data" = "Datos Celulares";
+
+
+"Cellular Data Alerts" = "Alerta de Datos Celulares";
+
+
+"Charging Bolt Icon" = "Icono de Rayo de Carga ";
+
+
+"Chevron" = "Chevron";
+
+
 "Clock AM/PM" = "Reloj AM/PM";
+
+
 "Clock Text" = "Texto de Reloj";
-"Colorize Blur" = "Colorizar el Empañado";
-"Configuration" = "Configuracion";
-"Control Center" = "Control Center";
+
+
+"Colorize Blur" = "Colorizar Desenfoque ";
+
+
+"Configuration" = "Configuración";
+
+
+"Control Center" = "Centro De Control";
+
+
 "Corner Radius" = "Radio de Esquina";
+
+
 "Curve Amount" = "Cantidad de Curva";
-"Custom Date Footer" = "Usando una linea personalizada sobresalta el texto de la fecha presente";
+
+
+"Custom Date Footer" = "Estableciendo una cadena personalizada anula la fecha actual";
+
+
 "Custom Date Text" = "Texto de Fecha Personalizada";
-"Custom Enter Passcode" = "Ponga Contraseña Personalizada";
-"Custom Formatter Footer" = "Usando un formatizador personalizado anulara las dos modificaciones previas relacionado al la ocultacion de am/pm y cambiando su caso";
-"Custom Slide To Unlock" = "Deslize Para Desbloquear Personalizado";
-"Custom Touch ID" = "ID de Contacto Personalizado";
-"Darkening Amount" = "Cantidad de Oscurecimiento";
+
+
+"Custom Enter Passcode" = "Ingresar Código Personalizado";
+
+
+"Custom Formatter Footer" = "Usando un formateador personalizado anulará las dos configuraciones anteriores relacionadas a ocultar AM/PM y cambiando su caso";
+
+
+"Custom Slide To Unlock" = "Desliza para Desbloquear Personalizado";
+
+
+"Custom Touch ID" = "Touch ID Perdonalizado";
+
+
+"Darkening Amount" = "Cantidad de oscurecimiento";
+
+
 "Data Networks Icon" = "Icono de Redes de Datos";
+
+
 "Date" = "Fecha";
-"Debugging" = "Depuracion";
-"Delete Backup" = "Borrar Respaldo";
+
+
+"Debugging" = "Depuración";
+
+
+"Delete Backup" = "Borrar Copia de Seguridad";
+
+
 "Depth Amount" = "Cantidad de Profundidad";
-"Dim Icons Instead of Blur" = "Oscurecer Iconos en ves de Empañar";
-"Dim Inactive App Cards" = "Osurecer Tarjetas de Aplicacion Inactivos";
-"Dimmed Icon Alpha" = "El Alpha del Icono Oscurecido";
-"Dimming Color Tint" = "Oscurecer el Color del Tinte";
-"Disable" = "Desactivar";
-"Disable Blur" = "Desactivar Empañado";
-"Disable Completely" = "Desactivar Completamente";
-"Disable Everywhere" = "Desactivar En Todos Lados";
-"Disable Icon Jittering" = "Desactivar Movimiento de Icono";
-"Disable From Top" = "Desactivar de Arriba";
-"Disable On LockScreen" = "Desacticvar en la Panta de Desbloqueo";
-"Disable On Side" = "Desactivar de Lado";
-"Disable Screen Bounce" = "Desactivar Rebote de Pantalla";
-"Disable Wallpaper Zoom" = "Desactivar Encercamiento de Fondo";
-"DND Icon" = "Icono DND";
-"Dock" = "Puerto";
-"Dock Background" = "Antecedente de Puerto";
-"Edge Alerts" = "Alertas de Edge";
+
+
+"Dim Icons Instead of Blur" = "Oscurecer iconos en lugar de ponerse borroso";
+
+
+"Dim Inactive App Cards" = "Oscurecer cartas de aplicaciones inactivas";
+
+
+"Dimmed Icon Alpha" = "Icono de alfa oscurecido ";
+
+
+"Dimming Color Tint" = "Oscurecimiento de tinte de color";
+
+
+"Disable" = "Inhabilitar";
+
+
+"Disable Blur" = "Desactivar el Desenfoque ";
+
+
+"Disable Completely" = "Desactivar completamente";
+
+
+"Disable Everywhere" = "Desactivar en todas partes";
+
+
+"Disable Icon Jittering" = "Desactivar temblor de iconos";
+
+
+"Disable From Top" = "Desactivar de la parte superior";
+
+
+"Disable On LockScreen" = "Desactivar en pantalla de bloqueo";
+
+
+"Disable On Side" = "Desactivar en el lado";
+
+
+"Disable Screen Bounce" = "Desactivar rebote de pantalla";
+
+
+"Disable Wallpaper Zoom" = "Desactivar el zoom de fondo de pantalla";
+
+
+"DND Icon" = "Icono de NoMolestar";
+
+
+"Dock" = "Dock";
+
+
+"Dock Background" = "Fondo de Dock";
+
+
+"Edge Alerts" = "Alertas de borde";
+
+
 "Enable" = "Activar";
-"Enable Debug Logging" = "Activar el Registro de Depuracion";
+
+
+"Enable Debug Logging" = "Activar el Registro de Depuración";
+
+
 "Folders" = "Carpetas";
-"Folder Appearance" = "Apariencia de Carpeta";
-"Folder Behavior" = "Comportamiento de Carpeta";
-"Folder Footer" = "No se puede añadir carpetas encima de otras on pero se puede hacer nuevas carpetas adentro de las carpetas antiguas, permitiendo el añado.";
-"Force Circle Buttons" = "Fuerce Botones Circulares";
-"Force Square Buttons" = "Fuerce Botones Cuadrados";
-"Force Touch" = "Toque de Fuerza";
-"Force Touch Settings" = "Configuraciones de Toque de Fuerza";
-"GameCenter Alerts" = "Alertas de Centro de Juegos";
-"Grabber" = "Flecha";
-"Grabbers" = "Flechas";
-"Grabber Color" = "Color de Flecha";
-"Grabber Opacity" = "Opacidad de Flecha";
-"Hide Darkening View" = "Esconder Vista Oscurecida";
-"Hide Separators" = "Esconder Separadores";
-"HideMeX Disable Alert" = "Vas a desactiva HideMeX, para completar esta accion, se hara un reinicio. Estas seguro que deseas desactivar la modificacion?";
-"Hide All Icon Badges" = "Esconder Todas Las Insignias de Icono";
-"Hide All Icon Labels" = "Esconder Todas las Etiquetas de Icono";
-"Hide App Icons and Labels" = "Esconder Icono y Etiquestas de Aplicaciones";
-"Hide Background" = "Esconder Antecedente";
-"Hide Blue Update Dot" = "Esconder Punto Azul de Actualicazion";
-"Hide Bottom Separator" = "Esconder Separador de Fondo";
-"Hide Camera Disable" = "Esconder Camara (Desactivar)";
-"Hide Camera Keep Functional" = "Esconder Camara (Mantener Funcion)";
-"Hide Cancel Button" = "Esconder el Boton de Cancelacion";
-"Hide CC Grabber" = "Esconder la Flecha de CC ";
-"Hide Docked Icon Labels Only" = "Esconder Etiquetas de Icono Acoplado Solamente";
-"Hide Emergency Button" = "Esconder Boton de Emergencia";
-"Hide Folder Labels" = "Esconder Etiquetas de Carpeta";
-"Hide Folder Labels Only" = "Esconder Etiquetas de Carpeta Solamente";
-"Hide Wallpaper Gradient" = "Esconder el Pendiente del Fondo";
-"Hide Icon Blur" = "Esconder Empañados de Icono";
-"Hide Icon Grid" = "Esconder Cuadricula de Icono";
-"Hide Icon Label Shadows" = "Esconder Sombras de Etiquetas de Icono";
-"Hide Individual Elements" = "Esconder Elementos Individuales";
-"Hide NC Grabber" = "Esconder la Flecha del Centro de Notificacion";
-"Hide Only Folder Badges" = "Esconder Solamente Insignia de La Carpeta";
-"Hide On Lock Screen" = "Esconder en La Pantalla de Desbloqueo";
-"Hide Open Folder Blur" = "Esconder Empañado de Carpeta Abierta";
-"Hide Open Folder Title" = "Esconder Titulo de Carpeta Abierta";
-"Hide Orange Beta Dot" = "Esconder Punto Anaranjado Beta";
-"Hide Page Dots" = "Esconder Puntos de Pagina";
-"Hide Percent Charged" = "Esconder el Porcentaje Cargado ";
-"Hide Section Tabs" = "Esconder Etiquetas de Seccion";
-"Hide Status Bar" = "Esconder Barra de Estado";
-"Hide Tapped Icon Shadow" = "Esconder Sombras de Icono Roscado";
-"Hide Today Date" = "Esconder La Fecha";
-"Hide Time Clock" = "Esconder el Tiempo del Reloj";
-"Hide Wallpaper Blur" = "Esconder el empañado de fondo";
-"Home Screen" = "Pantalla de Inicio";
+
+
+"Folder Appearance" = "Apariencias de Carpetas";
+
+
+"Folder Behavior" = "Comportamiento de Carpetas";
+
+
+"Folder Footer" ="Carpetas no se pueden anidar encima de otras, pero los iconos se pueden anidar dentro de una carpeta, permitiendo anidación.";
+
+
+"Force Circle Buttons" = "Forzar botones circular es";
+
+
+"Force Square Buttons" = "Forzar botones cuadrados ";
+
+
+"Force Touch" = "Force Touch";
+
+
+"Force Touch Settings" = "Ajustes de Force Touch";
+
+
+"GameCenter Alerts" = "Alertas de GameCenter";
+
+
+"Grabber" = "Capturador";
+
+
+"Grabbers" = "Capturadores";
+
+
+"Grabber Color" = "Color de Capturadores";
+
+
+"Grabber Opacity" = "Opacidad de Capturadores";
+
+
+"Hide Darkening View" = "Ocultar Vista de oscurecimiento";
+
+
+"Hide Separators" = "Ocultar Separadores";
+
+
+"HideMeX Disable Alert" = "Estas a punto de deshabitar HideMeX, para completar esta acción un respingo es requerido. Estas seguro que quieres deshabitar el tweak?";
+
+
+"Hide All Icon Badges" = "Ocultar todas las insignias de iconos";
+
+
+"Hide All Icon Labels" = "Ocultar todos los títulos de aplicaciones";
+
+
+"Hide App Icons and Labels" = "Ocultar iconos de aplicaciones y títulos";
+
+
+"Hide Background" = "Ocultar el fondo";
+
+
+"Hide Blue Update Dot" = "Ocultar punto azul de actualización ";
+
+
+"Hide Bottom Separator" = "Ocultar Separador inferior";
+
+
+"Hide Camera Disable" = "Ocultar Cámara (Desactivar)";
+
+
+"Hide Camera Keep Functional" = "Ocultar Cámara (Mantener Funcional)";
+
+
+"Hide Cancel Button" = "Ocultar botón de cancelación";
+
+
+"Hide CC Grabber" = "Ocultar Capturador de Centro de Control";
+
+
+"Hide Docked Icon Labels Only" = "Ocultar solo títulos de iconos en el Dock ";
+
+
+"Hide Emergency Button" = "Ocultar botón de emergencia";
+
+
+"Hide Folder Labels" = "Ocultar títulos de carpetas";
+
+
+"Hide Folder Labels Only" = "Ocultar solo títulos de carpetas";
+
+
+"Hide Wallpaper Gradient" = "Ocultar gradiente de fondo de pantalla";
+
+
+"Hide Icon Blur" = "Ocultar desenfoque de iconos";
+
+
+"Hide Icon Grid" = "Ocultar cuadrícula de iconos";
+
+
+"Hide Icon Label Shadows" = "Ocultar sombras de títulos de iconos";
+
+
+"Hide Individual Elements" = "Ocultar elementos individuales";
+
+
+"Hide NC Grabber" = "Ocultar Capturador de NC";
+
+
+"Hide Only Folder Badges" = "Solo ocultar globos de carpetas";
+
+
+"Hide On Lock Screen" = "Ocultar en la pantalla de bloqueo ";
+
+
+"Hide Open Folder Blur" = "Ocultar desenfoque de carpeta abierta";
+
+
+"Hide Open Folder Title" = "Ocultar título de carpeta abierta";
+
+
+"Hide Orange Beta Dot" = "Ocultar punto naranja beta";
+
+
+"Hide Page Dots" = "Ocultar puntos de página";
+
+
+"Hide Percent Charged" = "Ocultar por ciento cargado";
+
+
+"Hide Section Tabs" = "Ocultar pestañas de sección";
+
+
+"Hide Status Bar" = "Ocultar barra de estado";
+
+
+"Hide Tapped Icon Shadow" = "Ocultar sombra de icono seleccionado";
+
+
+"Hide Today Date" = "Ocultar Fecha de hoy";
+
+
+"Hide Time Clock" = "Ocultar reloj de tiempo";
+
+
+"Hide Wallpaper Blur" = "Ocultar desenfoque de fondo de pantalla";
+
+
+"Home Screen" = "Pantalla de inicio";
+
+
 "Icons" = "Iconos";
-"Icon Appearance" = "Apariencia de Icono";
+
+
+"Icon Appearance" = "Apariencia de iconos";
+
+
 "Icon Behavior" = "Comportamiento de Icono";
-"Labels" = "Etiquetas";
-"Location Improved Alerts" = "Alertas de Ubicacion Mejorada";
-"Location Services Icon" = "Icono de Servicios de Ubicacion";
-"LockScreen" = "Pantalla de Desbloqueo";
-"LockScreen Blur" = "Empañado de Pantalla de Desbloqueo";
-"LockScreen Tint" = "Tinte de Pantalla de Desbloqueo";
-"Low Power Alerts" = "Alertas de Carga Baja";
-"Low Space Alerts" = "Alertas de Espacio Minimo";
-"LowerCase AM/PM" = "AM/PM Minuscula";
-"Makers" = "Creadores";
-"Music Controls" = "Controles de Musica";
-"Music Section Hiding Footer" = "Esconder la seccion de musica es condicional. Significa que si la musica se esta escuchando, la seccion sera accessible para su uso. Cuando la musica se termine, la seccion estara oculta.";
-"No Backups Found, Create A New Backup" = "No Hay Respaldos, Crear Un Nuevo Respaldo";
-"No Delay In Showing" = "Ningun Retrazo En Mostrar";
-"No Service/Searching" = "Sin Servicio/Buscando";
-"Not Right Now" = "Ahorita No";
-"Notification Center" = "Centro de Notificacion";
-"Nothing Right Now" = "Nada Por El Momento";
-"Page Dots" = "Puntos de Pagina";
-"Passcode Screen" = "Pantalla de Contraseña";
-"Pinch To Close" = "Pellizcar Para Cerra";
-"Play Commit Haptic" = "Jugar Confirmacion Haptica";
-"Play Initial Haptic" = "Jugar Haptica Inicial";
-"QuickLaunch" = "QuickLaunch";
-"Round Top Corners" = "Esquinas Redondas";
-"Remove Inactive App Cards" = "Remover tarjetas de aplicacion inactiva";
-"Rename Backup" = "Renombrar Respaldo";
-"Reset Alert Settings" = "Reajustar Configuraciones de Alerta";
-"Reset All Settings" = "Reajustar Todas Las Configuraciones";
-"Reset Animation Settings" = "Reset Configuraciones de Animacion";
-"Reset App Switcher Settings" = "Reajustar Configuraciones de Selector de Aplicaciones";
-"Reset Control Center Settings" = "Reajustar Configuraciones de Control Center";
-"Reset Folder Settings" = "Reajustar Configuraciones de Carpeta";
-"Reset Force Touch Settings" = "Reajustar Configuraciones de Toque de Fuerza";
-"Reset Home Screen Settings" = "Resajustar Configuraciones de Pantalla de Inicio";
-"Reset Icon Settings" = "Reajustar Configuraciones de Icono";
-"Reset Lock Screen Settings" = "Reajustar configuraciones de Pantalla de Desbloqueo";
-"Reset Notification Center Settings" = "Reajustar Configuraciones del Centro de Notificaciones";
-"Reset Status Bar Settings" = "Reajustar Configuracioes de Barra de Estado";
-"Respring" = "Reiniciar";
-"Respring Confirmation" = "Reiniciando relanzara el SpringBoard para aplicar modificaciones que no se hacen en el momento. Asegurese que desea reiniciar antes de continuar.";
-"Restore Backup" = "Restaurar el Respaldo";
-"Rotation Lock Icon" = "Icono de Giro de Cerradura";
+
+
+"Labels" = "Título";
+
+
+"Location Improved Alerts" = "Alertas de ubicación mejorada";
+
+
+"Location Services Icon" = "Iconos de servicio de ubicación ";
+
+
+"LockScreen" = "Pantalla de bloqueo";
+
+
+"LockScreen Blur" = "Desenfoque de pantalla de bloqueo ";
+
+
+"LockScreen Tint" = "Tinte de pantalla de bloqueo";
+
+
+"Low Power Alerts" = "Alertas de ahorro de batería ";
+
+
+"Low Space Alerts" = "Alerta de espacio bajo";
+
+
+"LowerCase AM/PM" = "AM/PM minúscula";
+
+
+"Makers" = "Creadores ";
+
+
+"Music Controls" = "Controles de música";
+
+
+"Music Section Hiding Footer" = "Ocultando la sección de música es condicional. Esto quiere decir que si se está tocando música la sección va a ser des ocultada para que la uses. Cuando la música para la sección se oculta.";
+
+
+"No Backups Found, Create A New Backup" = "No copias de seguridad encontrada, Crear copia de seguridad nueva";
+
+
+"No Delay In Showing" = "Sin demora en mostrar";
+
+
+"No Service/Searching" = "No Servicio/Buscando";
+
+
+"Not Right Now" = "Ahora No";
+
+
+"Notification Center" = "Centro de Notificaciones";
+
+
+"Nothing Right Now" = "Nada en este momento";
+
+
+"Page Dots" = "Puntos de Página";
+
+
+"Passcode Screen" = "Pantalla de código de acceso";
+
+
+"Pinch To Close" = "Pellizcar para Cerrar ";
+
+
+"Play Commit Haptic" = "Jugar a cometer háptica";
+
+
+"Play Initial Haptic" = "Jugar Háptica Inicial";
+
+
+"QuickLaunch" = "LamzamientoRapido";
+
+
+"Round Top Corners" = "Esquinas superiores redondas";
+
+
+"Remove Inactive App Cards" = "Remover Cartas de Aplicaciones Inactivas ";
+
+
+"Rename Backup" = "Remover Copia de Seguridad";
+
+
+"Reset Alert Settings" = "Restablecer los ajustes de Alerta";
+
+
+"Reset All Settings" = "Restablecer Todos los Ajustes";
+
+
+"Reset Animation Settings" = "Restablecer Ajustes de Animación";
+
+
+"Reset App Switcher Settings" = "Restablecer Ajustes de Multitarea";
+
+
+"Reset Control Center Settings" = "Restablecer Ajustes de Centro de Control";
+
+
+"Reset Folder Settings" = "Restablecer Ajustes de Carpeta";
+
+
+"Reset Force Touch Settings" = "Restablecer Ajustes de ForceTouch";
+
+
+"Reset Home Screen Settings" = "Restablecer Ajustes de Pantalla de Inicio ";
+
+
+"Reset Icon Settings" = "Restablecer Ajustes de Iconos";
+
+
+"Reset Lock Screen Settings" = "Restablecer Ajustes de Pantalla de Bloqueo";
+
+
+"Reset Notification Center Settings" = "Restablecer Ajustes de Centro de Notificaciones";
+
+
+"Reset Status Bar Settings" = "Restablecer Ajustes de Barra de Estado";
+
+
+"Respring" = "Respring";
+
+
+"Respring Confirmation" = "Respring relanzará el Springboard para aplicar cualquier ajuste que no se aplicó instantáneamente. Asegúrate que tú quieras respring antes de continuar.";
+
+
+"Restore Backup" = "Restablecer Copia de Seguridad";
+
+
+"Rotation Lock Icon" = "Icono de Bloqueo de Orientación";
+
+
 "Row Height" = "Altura de Fila";
-"Row Width" = "Anchura de Fila";
-"Same Size Everywhere" = "El Mismo Tamaño A Todos Lados";
+
+
+"Row Width" = "Ancho de Fila";
+
+
+"Same Size Everywhere" = "Mismo Tamaño en Todas Partes";
+
+
 "Save" = "Guardar";
-"Saturation Amount" = "Cantidad de Saturacion";
-"Section Hiding" = "Ocultacion de La Seccion";
-"Settings" = "Configuraciones";
-"Shake To Undo Alerts" = "Alertas de Agitar Para Deshacer";
-"Shortcut Menu" = "Menu de Atajo";
-"Show Hidden Apps In Switcher" = "Mostrar Aplicaciones Ocultas en el Selector";
-"Show On First Swipe" = "Mostrar en el Primer Deslizo";
-"Signal Strength Icon" = "Icono de intensidad de Señal";
-"Slide To Unlock" = "Deslizar para Desbloquear";
-"Slide To Unlock Glint" = "Destello de Deslizar Para Desbloquear";
-"Slowness Factor Footer" = "Deslizar para la Izquierda para apresurar las animaciones, un poco sera muy efectivo.";
-"Slow Factor" = "Factor Lento";
-"Sort By Apps" = "Ordenar Por Aplicacion";
+
+
+"Saturation Amount" = "Cantidad de Saturación";
+
+
+"Section Hiding" = "Ocultar Secciones";
+
+
+"Settings" = "Ajustes";
+
+
+"Shake To Undo Alerts" = "Alertas de Agitar para Deshacer";
+
+
+"Shortcut Menu" = "Menú de Atajo";
+
+
+"Show Hidden Apps In Switcher" = "Mostrar Aplicaciones Escondidas en Multitarea  ";
+
+
+"Show On First Swipe" = "Mostrar en el Primer Deslizó";
+
+
+"Signal Strength Icon" = "Icono de Fuerza de Señal";
+
+
+"Slide To Unlock" = "Desliza para Desbloquear";
+
+
+"Slide To Unlock Glint" = "Destello de Desliza para Desbloquear";
+
+
+"Slowness Factor Footer" = "Deslizando para la izquierda acelera animaciones, un poco va un largo camino.";
+
+
+"Slow Factor" = "Factor de Lentitud";
+
+
+"Sort By Apps" = "Agrupar por App";
+
+
 "Spotlight" = "Spotlight";
-"Subtitle Color" = "Color del Subtitulo";
-"Suppress Alerts" = "Reprimir Alertas";
-"Sufficient Power Reached Alerts" = "Alertas de Carga Suficiente Alcanzada";
-"Support" = "Ayuda";
-"Suppress Parallax" = "Ocultar Paralaxis";
-"Switcher Cards" = "Tarjetas de Selector";
-"Switcher Wallpaper" = "Fondo de Selector";
-"Tap On Cell To Restore A Backup" = "Pulse sobre la Celula Para Restaurar el Respaldo";
-"Tethering Icon" = "Icono de Atadura";
-"Thermal Icon" = "Icono Thermal";
-"Time Format Preview" = "Avance de Formato de hora";
-"Time Machine" = "Time Machine";
-"Time Machine Backup Rename" = "Renombramiento de Respaldo de Time Machine";
-"Time Machine Manager" = "Administracion de Time Machine";
-"Title Color" = "Color del Titulo";
-"TTY Icon" = "Icono TTY";
-"Translation" = "Traduccion";
-"Unreliable Accessory Alert" = "Alertas de Acesorio Desconfiable";
-"Unsupported Charging Alerts" = "Alertas de Carga Infundada";
-"Use Custom Alpha" = "Usar Alpha Personalizado";
-"Use Custom Carrier Text" = "Usar Texto de Transportista Movil Personalizado";
-"Use Custom Clock Color" = "Usar Color Personalizado Para el Reloj";
-"Use Custom Color" = "Usar Color Personalizaodo";
+
+
+"Subtitle Color" = "Color de subtítulo";
+
+
+"Suppress Alerts" = "Suprimir Alertas";
+
+
+"Sufficient Power Reached Alerts" = "Alertad de Suficiente Poder Alcanzado";
+
+
+"Support" = "Soporte";
+
+
+"Suppress Parallax" = "Suprimir Paralaje";
+
+
+"Switcher Cards" = "Cartas de Multitarea";
+
+
+"Switcher Wallpaper" = "Fondo de Pantalla de Multitarea";
+
+
+"Tap On Cell To Restore A Backup" = "Toque en Células para Restaurar Copia de Seguridad";
+
+
+"Tethering Icon" = "Icono de Tethering";
+
+
+"Thermal Icon" = "Icono Termal";
+
+
+"Time Format Preview" = "Formato de Vista Previa en Tiempo";
+
+
+"Time Machine" = "Máquina del Tiempo";
+
+
+"Time Machine Backup Rename" = "Re-nombrar Copia De Seguridad del Maquina de Tiempo  ";
+
+
+"Time Machine Manager" = "Manager de Máquina del Tiempo";
+
+
+"Title Color" = "Color de Título";
+
+
+"TTY Icon" = "Icono de TTY";
+
+
+"Translation" = "Translación";
+
+
+"Unreliable Accessory Alert" = "Alerta de Accesorio Poco Fiable";
+
+
+"Unsupported Charging Alerts" = "Alerta de Carga Sin Apoyo";
+
+
+"Use Custom Alpha" = "Usar Alfa Personalizada";
+
+
+"Use Custom Carrier Text" = "Usar Texto de Operador Personalizado";
+
+
+"Use Custom Clock Color" = "Usar Color de Reloj Personalizado";
+
+
+"Use Custom Color" = "Usar Color Personalizado";
+
+
 "Use Custom Text" = "Usar Texto Personalizado";
-"Use Custom Time Format" = "Usar Formato de Tiempo Personalizado";
-"Use Old Bounce" = "Usar el Rebote Antiguo";
-"VPN Icon" = "Icono VPN";
-"Wallpaper" = "Fondo";
-"What would you like to do with this backup?" = "Que desea hacer con este respaldo?";
-"What would you like to rename this backup to?" = "Que le gustaria nombrar este respaldo?";
+
+
+"Use Custom Time Format" = "Usar Formato De Tiempo Personalizado";
+
+
+"Use Old Bounce" = "Usar Rebote Viejo";
+
+
+"VPN Icon" = "Icono de VPN";
+
+
+"Wallpaper" = "Fondo de Pantalla";
+
+
+"What would you like to do with this backup?" = "Que Te Gustaría Hacer con esta Copia de Seguridad ?";
+
+
+"What would you like to rename this backup to?" = "Que Te Gustaría Re-nombrar está Copia de Seguridad?";
