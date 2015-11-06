@@ -97,7 +97,7 @@
 "Can Pop From Side" = "Puede Pop de Un Lado";
 
 
-"Carrier Text" = "Texto de Portador";
+"Carrier Text" = "Texto de Operador";
 
 
 "Cellular Data" = "Datos Celulares";
@@ -241,10 +241,10 @@
 "Folder Footer" ="Carpetas no se pueden anidar encima de otras, pero los iconos se pueden anidar dentro de una carpeta, permitiendo anidación.";
 
 
-"Force Circle Buttons" = "Forzar botones circular es";
+"Force Circle Buttons" = "Forzar botones circulares";
 
 
-"Force Square Buttons" = "Forzar botones cuadrados ";
+"Force Square Buttons" = "Forzar botones cuadrados";
 
 
 "Force Touch" = "Force Touch";
@@ -394,7 +394,7 @@
 "Location Improved Alerts" = "Alertas de ubicación mejorada";
 
 
-"Location Services Icon" = "Iconos de servicio de ubicación ";
+"Location Services Icon" = "Iconos de servicio de ubicación";
 
 
 "LockScreen" = "Pantalla de bloqueo";
@@ -415,7 +415,7 @@
 "LowerCase AM/PM" = "AM/PM minúscula";
 
 
-"Makers" = "Creadores ";
+"Makers" = "Creadores";
 
 
 "Music Controls" = "Controles de música";
@@ -424,7 +424,7 @@
 "Music Section Hiding Footer" = "Ocultando la sección de música es condicional. Esto quiere decir que si se está tocando música la sección va a ser des ocultada para que la uses. Cuando la música para la sección se oculta.";
 
 
-"No Backups Found, Create A New Backup" = "No copias de seguridad encontrada, Crear copia de seguridad nueva";
+"No Backups Found, Create A New Backup" = "No exsisten copias de seguridad, Crear copia de seguridad nueva";
 
 
 "No Delay In Showing" = "Sin demora en mostrar";
@@ -448,7 +448,7 @@
 "Passcode Screen" = "Pantalla de código de acceso";
 
 
-"Pinch To Close" = "Pellizcar para Cerrar ";
+"Pinch To Close" = "Pellizcar para Cerrar";
 
 
 "Play Commit Haptic" = "Jugar a cometer háptica";
@@ -457,13 +457,13 @@
 "Play Initial Haptic" = "Jugar Háptica Inicial";
 
 
-"QuickLaunch" = "LamzamientoRapido";
+"QuickLaunch" = "LanzamientoRapido";
 
 
 "Round Top Corners" = "Esquinas superiores redondas";
 
 
-"Remove Inactive App Cards" = "Remover Cartas de Aplicaciones Inactivas ";
+"Remove Inactive App Cards" = "Remover Cartas de Aplicaciones Inactivas";
 
 
 "Rename Backup" = "Remover Copia de Seguridad";
@@ -505,7 +505,7 @@
 "Reset Status Bar Settings" = "Restablecer Ajustes de Barra de Estado";
 
 
-"Respring" = "Respring";
+"Respring" = "Respingo";
 
 
 "Respring Confirmation" = "Respring relanzará el Springboard para aplicar cualquier ajuste que no se aplicó instantáneamente. Asegúrate que tú quieras respring antes de continuar.";
@@ -619,7 +619,7 @@
 "TTY Icon" = "Icono de TTY";
 
 
-"Translation" = "Translación";
+"Translation" = "Traducción";
 
 
 "Unreliable Accessory Alert" = "Alerta de Accesorio Poco Fiable";
